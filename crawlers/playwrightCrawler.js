@@ -4,7 +4,7 @@ import { isProductUrl,isCurrentUrlProduct } from '../utils/helpers.js';
 import { getRules, shouldCrawlUrl } from '../utils/ruleChecker.js';
 //  not required as we lazy load it in chromium browser
 import fetchWithRetry from '../utils/fetchWithRetry.js'; 
-import { MAX_PRODUCTS } from '../config.js';
+import { MAX_PRODUCTS,MAX_QUEUE_SIZE } from '../config.js';
 
 const visited = new Set();
 
@@ -50,7 +50,7 @@ export default async function playwrightCrawler(domain,rules) {
             console.log(`[PRODUCT] ${href}`);
             productUrls.push(href);
           } else {
-            if (queue.length < 10) {
+            if (queue.length < MAX_QUEUE_SIZE) {
               queue.push([href, depth + 1]);
             }
           }

@@ -11,9 +11,8 @@ export function createRulesForDomain(domain) {
                 include: [/.*/],
                 exclude: [/terms/, /condition/, /policy/, /career/],
                 match: (url) => true,
-                maxDepth: 2,
+                maxDepth: 6,
                 rateLimitMs: 1000,
-                // not used 
                 maxProducts: 10000,
             };
 
@@ -22,10 +21,10 @@ export function createRulesForDomain(domain) {
                 include: [/.*/],
                 exclude: [/terms/, /condition/, /policy/, /career/],
                 match: (url) => true,
-                maxDepth: 3,
+                maxDepth: 6,
                 rateLimitMs: 1500,
                 // not used
-                maxProducts: 100,
+                maxProducts: 10000,
             };
 
         case 'nykaafashion.com':
@@ -33,57 +32,66 @@ export function createRulesForDomain(domain) {
                 include: [/.*/],
                 exclude: [/terms/, /condition/, /policy/, /career/],
                 match: (url) => true,
-                maxDepth: 4,
+                maxDepth: 6,
                 rateLimitMs: 1200,
-                // not used
-                maxProducts: 100,
+                maxProducts: 10000,
             };
         case 'zara.com':
             return {
                 include: [/.*/],
                 exclude: [/terms/, /condition/, /policy/, /career/],
                 match: (url) => true,
-                maxDepth: 2,
+                maxDepth: 6,
                 rateLimitMs: 1200,
                 // not used
-                maxProducts: 100,
+                maxProducts: 10000,
             };
-        case 'hm.com':
+        case 'www2.hm.com':
             return {
                 include: [/.*/],
                 exclude: [/terms/, /condition/, /policy/, /career/],
                 match: (url) => true,
-                maxDepth: 2,
+                maxDepth: 6,
                 rateLimitMs: 1200,
                 // not used
-                maxProducts: 100,
+                maxProducts: 10000,
             };
         case 'ajio.com':
             return {
                 include: [/.*/],
                 exclude: [/terms/, /condition/, /policy/, /career/],
                 match: (url) => true,
-                maxDepth: 2,
+                maxDepth: 6,
                 rateLimitMs: 1200,
-                // not used
-                maxProducts: 100,
+                maxProducts: 10000,
             };
         case 'myntra.com':
             return {
                 include: [/.*/],
                 exclude: [/terms/, /condition/, /policy/, /career/],
                 match: (url) => true,
-                maxDepth: 2,
+                maxDepth: 6,
+                rateLimitMs: 1200,
+                // not used
+                maxProducts: 10000,
+            };
+        case 'westside.com':
+            return {
+                include: [/.*/],
+                exclude: [/terms/, /condition/, /policy/, /career/],
+                match: (url) => true,
+                maxDepth: 6,
                 rateLimitMs: 1200,
                 // not used
                 maxProducts: 100,
             };
+
         default:
             return {
                 include: [/.*/],
                 exclude: [/terms/, /condition/, /policy/, /career/],
                 match: () => true,
-                maxDepth: 2,
+                maxDepth: 6,
                 rateLimitMs: 1000,
                 // not used
                 maxProducts: 10000,

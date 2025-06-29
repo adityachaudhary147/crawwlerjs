@@ -4,21 +4,16 @@ const genericPatterns = [/\/product/, /\/products/, /\/p\//, /\/p-/, /-p/];
 
 export const productUrlRules = {
   "virgio.com": [
-    /\/products\/.+/,
-    /\/p\//,
-    ...genericPatterns
+    /\/products\/[a-z0-9\-]+/,
   ],
   "tatacliq.com": [
-    /\/product\/.+/,
-    ...genericPatterns
+    /\/[^\/]+\/p-mp\d+/,
   ],
   "nykaafashion.com": [
-    /\/products\/.+/,
-    ...genericPatterns
+    /\/[^\/]+\/p\/\d+/,
   ],
   "westside.com": [
-    /\/products\/.+/,
-    ...genericPatterns
+    /\/products\/[a-z0-9\-]+-\d+/,
   ],
   "zara.com": [
     /-p\d+\.html/
@@ -26,7 +21,9 @@ export const productUrlRules = {
   "hm.com": [
     /productpage\.\d+\.html/
   ],
-  "ajio.com": [/\/p\//],
+  "ajio.com": [
+    /\/[a-z0-9\-]+\/p\/\d+_[a-z]+/,
+  ],
   "myntra.com": [
     /\/\d+\/buy/
   ],

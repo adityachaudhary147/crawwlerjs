@@ -1,7 +1,7 @@
 import * as cheerio from 'cheerio';
 import { isProductUrl, isNotWorthyUrl, isCurrentUrlProduct } from '../utils/helpers.js';
 import fetchWithRetry from '../utils/fetchWithRetry.js';
-import { MAX_DEPTH, MAX_PRODUCTS } from '../config.js';
+import { MAX_DEPTH, MAX_PRODUCTS, MAX_QUEUE_SIZE } from '../config.js';
 import { getRules, shouldCrawlUrl } from '../utils/ruleChecker.js';
 
 export default async function cheerioCrawler(domain,rules) {
@@ -37,7 +37,7 @@ export default async function cheerioCrawler(domain,rules) {
           productUrls.push(href);
           if (productUrls.length >= MAX_PRODUCTS) return productUrls;
         }
-        if (queue.length < 10) {
+        if (queue.length < MAX_QUEUE_SIZE) {
           queue.push([href, depth + 1]);
         }
       }

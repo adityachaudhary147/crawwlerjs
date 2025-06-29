@@ -1,0 +1,2042 @@
+virgio.com
+https://www.virgio.com
+{
+  include: [ /.*/ ],
+  exclude: [ /terms/, /condition/, /policy/, /career/ ],
+  match: [Function: match],
+  maxDepth: 2,
+  rateLimitMs: 1000,
+  maxProducts: 10000
+}
+tatacliq.com
+https://www.tatacliq.com
+{
+  include: [ /.*/ ],
+  exclude: [ /terms/, /condition/, /policy/, /career/ ],
+  match: [Function: match],
+  maxDepth: 2,
+  rateLimitMs: 1500,
+  maxProducts: 100
+}
+nykaafashion.com
+https://www.nykaafashion.com
+{
+  include: [ /.*/ ],
+  exclude: [ /terms/, /condition/, /policy/, /career/ ],
+  match: [Function: match],
+  maxDepth: 2,
+  rateLimitMs: 1200,
+  maxProducts: 100
+}
+westside.com
+https://www.westside.com
+{
+  include: [ /.*/ ],
+  exclude: [ /terms/, /condition/, /policy/, /career/ ],
+  match: [Function: match],
+  maxDepth: 2,
+  rateLimitMs: 1000,
+  maxProducts: 10000
+}
+zara.com
+https://www.zara.com/in/
+{
+  include: [ /.*/ ],
+  exclude: [ /terms/, /condition/, /policy/, /career/ ],
+  match: [Function: match],
+  maxDepth: 2,
+  rateLimitMs: 1200,
+  maxProducts: 100
+}
+www2.hm.com
+https://www2.hm.com
+{
+  include: [ /.*/ ],
+  exclude: [ /terms/, /condition/, /policy/, /career/ ],
+  match: [Function: match],
+  maxDepth: 2,
+  rateLimitMs: 1000,
+  maxProducts: 10000
+}
+myntra.com
+https://www.myntra.com
+{
+  include: [ /.*/ ],
+  exclude: [ /terms/, /condition/, /policy/, /career/ ],
+  match: [Function: match],
+  maxDepth: 2,
+  rateLimitMs: 1200,
+  maxProducts: 100
+}
+ajio.com
+https://www.ajio.com
+{
+  include: [ /.*/ ],
+  exclude: [ /terms/, /condition/, /policy/, /career/ ],
+  match: [Function: match],
+  maxDepth: 2,
+  rateLimitMs: 1200,
+  maxProducts: 100
+}
+
+========== Starting crawl for https://www.virgio.com ==========
+
+========== Starting crawl for https://www.tatacliq.com ==========
+
+========== Starting crawl for https://www.nykaafashion.com ==========
+
+========== Starting crawl for https://www.westside.com ==========
+[Cheerio][DEPTH 0] Visiting: https://www.virgio.com
+[PRODUCT] https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+[PRODUCT] https://www.virgio.com/products/date-chic-red-solid-co-ords
+[PRODUCT] https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+[PRODUCT] https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+[Cheerio][DEPTH 0] Visiting: https://www.westside.com
+[Playwright][DEPTH 0] Visiting: https://www.nykaafashion.com
+[Playwright][DEPTH 0] Visiting: https://www.tatacliq.com
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/
+[PRODUCT] https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+[PRODUCT] https://www.virgio.com/products/date-chic-red-solid-co-ords
+[PRODUCT] https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+[PRODUCT] https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/apps/iwish
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/beyond-the-curve
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/cart
+[PRODUCT] https://www.westside.com/products/studiowest-one-night-in-ibiza-eau-de-parfum-25-ml-300943794001
+[PRODUCT] https://www.westside.com/products/studiowest-one-night-in-ibiza-eau-de-parfum-25-ml-300943794001
+[PRODUCT] https://www.westside.com/products/studiowest-vanilla-and-black-currant-eau-de-parfum-30ml-300959602001
+[PRODUCT] https://www.westside.com/products/studiowest-vanilla-and-black-currant-eau-de-parfum-30ml-300959602001
+[PRODUCT] https://www.westside.com/products/studiowest-noir-eau-de-parfum-100-ml-300943570001
+[PRODUCT] https://www.westside.com/products/studiowest-noir-eau-de-parfum-100-ml-300943570001
+[PRODUCT] https://www.westside.com/products/studiowest-goddess-eau-de-parfum-100-ml-301004572001
+[PRODUCT] https://www.westside.com/products/studiowest-goddess-eau-de-parfum-100-ml-301004572001
+[PRODUCT] https://www.westside.com/products/studiowest-rose-and-apricot-eau-de-parfum-30ml-300959603001
+[PRODUCT] https://www.westside.com/products/studiowest-rose-and-apricot-eau-de-parfum-30ml-300959603001
+[PRODUCT] https://www.westside.com/products/studiowest-london-parfum-100ml-300943553001
+[PRODUCT] https://www.westside.com/products/studiowest-london-parfum-100ml-300943553001
+[PRODUCT] https://www.westside.com/products/studiowest-aqua-aromatic-parfum-100-ml-300948332001
+[PRODUCT] https://www.westside.com/products/studiowest-aqua-aromatic-parfum-100-ml-300948332001
+[PRODUCT] https://www.westside.com/products/studiowest-blue-sapphire-eau-de-parfum-100-ml-301004586001
+[PRODUCT] https://www.westside.com/products/studiowest-blue-sapphire-eau-de-parfum-100-ml-301004586001
+[PRODUCT] https://www.westside.com/products/studiowest-cool-man-parfume-100-ml-300943565001
+[PRODUCT] https://www.westside.com/products/studiowest-cool-man-parfume-100-ml-300943565001
+[PRODUCT] https://www.westside.com/products/studiowest-sage-and-rosemary-eau-de-parfum-30ml-300959605001
+[PRODUCT] https://www.westside.com/products/studiowest-sage-and-rosemary-eau-de-parfum-30ml-300959605001
+[PRODUCT] https://www.westside.com/products/studiowest-topaz-glow-eau-de-parfum-100-ml-301004587001
+[PRODUCT] https://www.westside.com/products/studiowest-topaz-glow-eau-de-parfum-100-ml-301004587001
+[PRODUCT] https://www.westside.com/products/studiowest-noir-onyx-eau-de-parfum-100-ml-301004588001
+[PRODUCT] https://www.westside.com/products/studiowest-noir-onyx-eau-de-parfum-100-ml-301004588001
+[PRODUCT] https://www.westside.com/products/studiowest-bergamot-and-oakmoss-eau-de-parfum-100-ml-300943558001
+[PRODUCT] https://www.westside.com/products/studiowest-bergamot-and-oakmoss-eau-de-parfum-100-ml-300943558001
+[PRODUCT] https://www.westside.com/products/studiowest-rose-quartz-eau-de-parfum-100-ml-301004589001
+[PRODUCT] https://www.westside.com/products/studiowest-rose-quartz-eau-de-parfum-100-ml-301004589001
+[PRODUCT] https://www.westside.com/products/studiowest-amethyst-desire-eau-de-parfum-100-ml-301004584001
+[PRODUCT] https://www.westside.com/products/studiowest-amethyst-desire-eau-de-parfum-100-ml-301004584001
+[PRODUCT] https://www.westside.com/products/studiowest-ash-eau-de-parfum-100-ml-300943568001
+[PRODUCT] https://www.westside.com/products/studiowest-ash-eau-de-parfum-100-ml-300943568001
+[PRODUCT] https://www.westside.com/products/studiowest-paris-parfum-100ml-300943555001
+[PRODUCT] https://www.westside.com/products/studiowest-paris-parfum-100ml-300943555001
+[PRODUCT] https://www.westside.com/products/studiowest-emerald-city-eau-de-parfum-100-ml-301004583001
+[PRODUCT] https://www.westside.com/products/studiowest-emerald-city-eau-de-parfum-100-ml-301004583001
+[PRODUCT] https://www.westside.com/products/studiowest-flaming-ruby-eau-de-parfum-100-ml-301004585001
+[PRODUCT] https://www.westside.com/products/studiowest-flaming-ruby-eau-de-parfum-100-ml-301004585001
+[PRODUCT] https://www.westside.com/products/studiowest-moonstone-aura-eau-de-parfum-100-ml-301004590001
+[PRODUCT] https://www.westside.com/products/studiowest-moonstone-aura-eau-de-parfum-100-ml-301004590001
+[PRODUCT] https://www.westside.com/products/studiowest-golden-hour-eau-de-parfum-30-ml-300991613001
+[PRODUCT] https://www.westside.com/products/studiowest-golden-hour-eau-de-parfum-30-ml-300991613001
+[PRODUCT] https://www.westside.com/products/studiowest-oriental-eau-de-parfum-100ml-300943551001
+[PRODUCT] https://www.westside.com/products/studiowest-oriental-eau-de-parfum-100ml-300943551001
+[PRODUCT] https://www.westside.com/products/studiowest-oud-amber-eau-de-parfum-100-ml-300980870001
+[PRODUCT] https://www.westside.com/products/studiowest-oud-amber-eau-de-parfum-100-ml-300980870001
+[PRODUCT] https://www.westside.com/products/studiowest-fruity-eau-de-parfum-100ml-300943550001
+[PRODUCT] https://www.westside.com/products/studiowest-fruity-eau-de-parfum-100ml-300943550001
+[PRODUCT] https://www.westside.com/products/studiowest-bergamot-and-oakmoss-eau-de-parfum-30ml-300959604001
+[PRODUCT] https://www.westside.com/products/studiowest-bergamot-and-oakmoss-eau-de-parfum-30ml-300959604001
+[PRODUCT] https://www.westside.com/products/studiowest-one-night-in-ibiza-eau-de-parfum-25-ml-300943794001
+[PRODUCT] https://www.westside.com/products/studiowest-one-night-in-ibiza-eau-de-parfum-25-ml-300943794001
+[PRODUCT] https://www.westside.com/products/studiowest-vanilla-and-black-currant-eau-de-parfum-30ml-300959602001
+[PRODUCT] https://www.westside.com/products/studiowest-vanilla-and-black-currant-eau-de-parfum-30ml-300959602001
+[PRODUCT] https://www.westside.com/products/studiowest-noir-eau-de-parfum-100-ml-300943570001
+[PRODUCT] https://www.westside.com/products/studiowest-noir-eau-de-parfum-100-ml-300943570001
+[PRODUCT] https://www.westside.com/products/studiowest-goddess-eau-de-parfum-100-ml-301004572001
+[PRODUCT] https://www.westside.com/products/studiowest-goddess-eau-de-parfum-100-ml-301004572001
+[PRODUCT] https://www.westside.com/products/studiowest-rose-and-apricot-eau-de-parfum-30ml-300959603001
+[PRODUCT] https://www.westside.com/products/studiowest-rose-and-apricot-eau-de-parfum-30ml-300959603001
+[PRODUCT] https://www.westside.com/products/studiowest-london-parfum-100ml-300943553001
+[PRODUCT] https://www.westside.com/products/studiowest-london-parfum-100ml-300943553001
+[PRODUCT] https://www.westside.com/products/studiowest-aqua-aromatic-parfum-100-ml-300948332001
+[PRODUCT] https://www.westside.com/products/studiowest-aqua-aromatic-parfum-100-ml-300948332001
+[PRODUCT] https://www.westside.com/products/studiowest-blue-sapphire-eau-de-parfum-100-ml-301004586001
+[PRODUCT] https://www.westside.com/products/studiowest-blue-sapphire-eau-de-parfum-100-ml-301004586001
+[PRODUCT] https://www.westside.com/products/studiowest-cool-man-parfume-100-ml-300943565001
+[PRODUCT] https://www.westside.com/products/studiowest-cool-man-parfume-100-ml-300943565001
+[PRODUCT] https://www.westside.com/products/studiowest-sage-and-rosemary-eau-de-parfum-30ml-300959605001
+[PRODUCT] https://www.westside.com/products/studiowest-sage-and-rosemary-eau-de-parfum-30ml-300959605001
+[PRODUCT] https://www.westside.com/products/studiowest-topaz-glow-eau-de-parfum-100-ml-301004587001
+[PRODUCT] https://www.westside.com/products/studiowest-topaz-glow-eau-de-parfum-100-ml-301004587001
+[PRODUCT] https://www.westside.com/products/studiowest-noir-onyx-eau-de-parfum-100-ml-301004588001
+[PRODUCT] https://www.westside.com/products/studiowest-noir-onyx-eau-de-parfum-100-ml-301004588001
+[PRODUCT] https://www.westside.com/products/studiowest-bergamot-and-oakmoss-eau-de-parfum-100-ml-300943558001
+[PRODUCT] https://www.westside.com/products/studiowest-bergamot-and-oakmoss-eau-de-parfum-100-ml-300943558001
+[PRODUCT] https://www.westside.com/products/studiowest-rose-quartz-eau-de-parfum-100-ml-301004589001
+[PRODUCT] https://www.westside.com/products/studiowest-rose-quartz-eau-de-parfum-100-ml-301004589001
+[PRODUCT] https://www.westside.com/products/studiowest-amethyst-desire-eau-de-parfum-100-ml-301004584001
+[PRODUCT] https://www.westside.com/products/studiowest-amethyst-desire-eau-de-parfum-100-ml-301004584001
+[PRODUCT] https://www.westside.com/products/studiowest-ash-eau-de-parfum-100-ml-300943568001
+[PRODUCT] https://www.westside.com/products/studiowest-ash-eau-de-parfum-100-ml-300943568001
+[PRODUCT] https://www.westside.com/products/studiowest-paris-parfum-100ml-300943555001
+[PRODUCT] https://www.westside.com/products/studiowest-paris-parfum-100ml-300943555001
+[PRODUCT] https://www.westside.com/products/studiowest-emerald-city-eau-de-parfum-100-ml-301004583001
+[PRODUCT] https://www.westside.com/products/studiowest-emerald-city-eau-de-parfum-100-ml-301004583001
+[PRODUCT] https://www.westside.com/products/studiowest-flaming-ruby-eau-de-parfum-100-ml-301004585001
+[PRODUCT] https://www.westside.com/products/studiowest-flaming-ruby-eau-de-parfum-100-ml-301004585001
+[PRODUCT] https://www.westside.com/products/studiowest-moonstone-aura-eau-de-parfum-100-ml-301004590001
+[PRODUCT] https://www.westside.com/products/studiowest-moonstone-aura-eau-de-parfum-100-ml-301004590001
+[PRODUCT] https://www.westside.com/products/studiowest-golden-hour-eau-de-parfum-30-ml-300991613001
+[PRODUCT] https://www.westside.com/products/studiowest-golden-hour-eau-de-parfum-30-ml-300991613001
+[PRODUCT] https://www.westside.com/products/studiowest-oriental-eau-de-parfum-100ml-300943551001
+[PRODUCT] https://www.westside.com/products/studiowest-oriental-eau-de-parfum-100ml-300943551001
+[PRODUCT] https://www.westside.com/products/studiowest-oud-amber-eau-de-parfum-100-ml-300980870001
+[PRODUCT] https://www.westside.com/products/studiowest-oud-amber-eau-de-parfum-100-ml-300980870001
+[PRODUCT] https://www.westside.com/products/studiowest-fruity-eau-de-parfum-100ml-300943550001
+[PRODUCT] https://www.westside.com/products/studiowest-fruity-eau-de-parfum-100ml-300943550001
+[PRODUCT] https://www.westside.com/products/studiowest-bergamot-and-oakmoss-eau-de-parfum-30ml-300959604001
+[PRODUCT] https://www.westside.com/products/studiowest-bergamot-and-oakmoss-eau-de-parfum-30ml-300959604001
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/irl
+[PRODUCT] https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+[PRODUCT] https://www.virgio.com/products/date-chic-red-solid-co-ords
+[PRODUCT] https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+[PRODUCT] https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/?ptype=homepage
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/account/login
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/know-your-size
+[Playwright][DEPTH 1] Visiting: https://www.tatacliq.com/my-account/orders
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/sale-womens-western-wear
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/sustainability
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/sale-woman-ethnic-wear
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/account
+[PRODUCT] https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+[PRODUCT] https://www.virgio.com/products/date-chic-red-solid-co-ords
+[PRODUCT] https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+[PRODUCT] https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/pages/about-us
+[PRODUCT] https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+[PRODUCT] https://www.virgio.com/products/date-chic-red-solid-co-ords
+[PRODUCT] https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+[PRODUCT] https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/sale-curvy-women
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/women/c/6557?root=topnav_1
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/blogs/news
+[PRODUCT] https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+[PRODUCT] https://www.virgio.com/products/date-chic-red-solid-co-ords
+[PRODUCT] https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+[PRODUCT] https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/sale-woman-lingerie
+[Playwright][DEPTH 1] Visiting: https://www.tatacliq.com/my-account/cliq-care
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/pages/ambassador-program
+[PRODUCT] https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+[PRODUCT] https://www.virgio.com/products/date-chic-red-solid-co-ords
+[PRODUCT] https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+[PRODUCT] https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/sale-man
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/the-virgio-space
+[PRODUCT] https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+[PRODUCT] https://www.virgio.com/products/date-chic-red-solid-co-ords
+[PRODUCT] https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+[PRODUCT] https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/sale-kids
+[PRODUCT] https://www.nykaafashion.com/cover-story-yellow-floral-maxi-dress/p/10637095
+[PRODUCT] https://www.nykaafashion.com/gillori-sitara-wine-gold-printed-suit-set-of-3/p/4986567
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/stores
+[PRODUCT] https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+[PRODUCT] https://www.virgio.com/products/date-chic-red-solid-co-ords
+[PRODUCT] https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+[PRODUCT] https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+[PRODUCT] https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/sale-womens-footwear
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/men/c/6823?root=topnav_1
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/collections/dresses-date
+[PRODUCT] https://www.virgio.com/products/bold-minimal-rina-trucotton-flare-dress-with-bow-detail
+[PRODUCT] https://www.virgio.com/products/bold-minimal-penyl-trucotton-back-tie-up-detail-tier-dress
+[PRODUCT] https://www.virgio.com/products/bold-minimal-diva-trucotton-flare-dress-with-bow-detail
+[PRODUCT] https://www.virgio.com/products/floral-affair-mireya-trucotton-square-neck-puff-midi-dress
+[PRODUCT] https://www.virgio.com/products/floral-affair-elaria-trutencel-volume-sleeve-midi-dress
+[PRODUCT] https://www.virgio.com/products/floral-affair-zarael-truviscose-puff-sleeve-mini-dress
+[PRODUCT] https://www.virgio.com/products/floral-affair-samira-trucotton-square-neck-puff-midi-dress
+[PRODUCT] https://www.virgio.com/products/floral-affair-vivara-truviscose-floral-tiered-cut-out-dress
+[PRODUCT] https://www.virgio.com/products/soft-romance-black-balloon-skirt-dress
+[PRODUCT] https://www.virgio.com/products/best-seller-isolde-trucotton-waist-gathered-dress
+[PRODUCT] https://www.virgio.com/products/denim-daze-hit3-blue-denim-smocking-dress
+[PRODUCT] https://www.virgio.com/products/best-seller-margaret-trucotton-printed-skater-dress
+[PRODUCT] https://www.virgio.com/products/boho-west-trucotton-tie-up-gathered-waist-dress
+[PRODUCT] https://www.virgio.com/products/best-seller-cooper-linen-gathered-dress
+[PRODUCT] https://www.virgio.com/products/best-seller-seraphina-linen-midi-ruffle-dress
+[PRODUCT] https://www.virgio.com/products/best-seller-willa-linen-gathered-dress
+[PRODUCT] https://www.virgio.com/products/smocking-poplin-luxe-smocked-cotton-dress
+[PRODUCT] https://www.virgio.com/products/ss24-airy-cotton-fit-and-flare-dress-with-elasticated-waist
+[PRODUCT] https://www.virgio.com/products/alessa-tier-dress-with-smocking
+[PRODUCT] https://www.virgio.com/products/reworked-tier-dress-with-smocking-detail
+[PRODUCT] https://www.virgio.com/products/smocking-poplin-empire-flare-cotton-dress
+[PRODUCT] https://www.virgio.com/products/smocking-poplin-regal-flare-cotton-dress
+[PRODUCT] https://www.virgio.com/products/vintage-bloom-cotton-voluminous-maxi-dress
+[PRODUCT] https://www.virgio.com/products/ric-rac-lace-floral-tie-strap-mini-dress
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/sale-mens-footwear
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/view-all-sale
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/collections/cotton
+[PRODUCT] https://www.virgio.com/products/boho-west-trucotton-fitted-button-front-waistcoat
+[PRODUCT] https://www.virgio.com/products/boho-west-trucotton-balloon-sleeve-top
+[PRODUCT] https://www.virgio.com/products/boho-west-trucotton-high-waisted-balloon-pants
+[PRODUCT] https://www.virgio.com/products/boho-west-trucotton-cropped-off-shoulder-top
+[PRODUCT] https://www.virgio.com/products/boho-west-trucotton-contrast-embroidery-peasant-top
+[PRODUCT] https://www.virgio.com/products/boho-west-trucotton-straight-leg-pleated-trousers
+[PRODUCT] https://www.virgio.com/products/boho-west-trucotton-floral-embroidery-balloon-sleeve-top
+[PRODUCT] https://www.virgio.com/products/boho-west-trucotton-tie-up-gathered-waist-dress
+[PRODUCT] https://www.virgio.com/products/boho-west-trucotton-long-sleeve-top-with-tie-up
+[PRODUCT] https://www.virgio.com/products/boho-west-trucotton-peplum-waist-tie-front-top
+[PRODUCT] https://www.virgio.com/products/academic-hit3-pink-knitted-corset-t-shirt
+[PRODUCT] https://www.virgio.com/products/academic-hit3-maroon-varsity-style-casual-tee
+[PRODUCT] https://www.virgio.com/products/academic-hit3-blue-varsity-style-casual-tee
+[PRODUCT] https://www.virgio.com/products/academic-hit3-black-halter-neck-t-shirt
+[PRODUCT] https://www.virgio.com/products/academic-hit3-grey-knitted-corset-t-shirt
+[PRODUCT] https://www.virgio.com/products/academic-hit3-pink-halter-neck-t-shirt
+[PRODUCT] https://www.virgio.com/products/emirati-essence-cut-out-waist-a-line-dress
+[PRODUCT] https://www.virgio.com/products/emirati-essence-lace-detail-blouson-boxy-top
+[PRODUCT] https://www.virgio.com/products/emirati-essence-front-slit-maxi-skirt
+[PRODUCT] https://www.virgio.com/products/emirati-essence-rolled-up-sleeve-boat-neck-top
+[PRODUCT] https://www.virgio.com/products/lease-line-hit2-rosy-front-open-twill-dress
+[PRODUCT] https://www.virgio.com/products/lease-line-hit2-olive-front-open-twill-dress
+[PRODUCT] https://www.virgio.com/products/reworked-shirt-pleated-detail-striped-shirt
+[PRODUCT] https://www.virgio.com/products/lease-line-hit2-tiered-waist-gathered-dress
+[Playwright][DEPTH 1] Visiting: https://www.tatacliq.com/gift-cards
+[PRODUCT] https://www.nykaafashion.com/threadbare-men-green-bomber-jacket/p/11370266
+[PRODUCT] https://www.nykaafashion.com/bullmer-brown-front-and-back-printed-colourblock-baggy-oversized-t-shirt-for-men/p/12209486
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/collections/co-ords-date
+[PRODUCT] https://www.virgio.com/products/floral-affair-nayra-trutencel-peplum-top-and-flared-skirt
+[PRODUCT] https://www.virgio.com/products/floral-affair-zaria-viscose-dobby-crop-top-and-skirt
+[PRODUCT] https://www.virgio.com/products/rose-revival-cotton-floral-co-ord-set
+[PRODUCT] https://www.virgio.com/products/rose-revival-recycled-poly-co-ord-set
+[PRODUCT] https://www.virgio.com/products/rose-revival-recycled-poly-shirt-shorts-set
+[PRODUCT] https://www.virgio.com/products/youth-linen-cotton-vest-and-skirt-set
+[PRODUCT] https://www.virgio.com/products/ric-rac-lace-top-skirt-white-co-ords
+[PRODUCT] https://www.virgio.com/products/hernes-cotton-polka-twin-set
+[PRODUCT] https://www.virgio.com/products/youth-linen-cotton-floral-co-ord-set
+[PRODUCT] https://www.virgio.com/products/perfect-match-ethereal-cotton-co-ord
+[PRODUCT] https://www.virgio.com/products/perfect-match-sublime-poplin-co-ord
+[PRODUCT] https://www.virgio.com/products/rose-revival-viscose-linen-co-ord-set
+[PRODUCT] https://www.virgio.com/products/youth-linen-cotton-scallop-co-ord-set
+[PRODUCT] https://www.virgio.com/products/rose-revival-viscose-floral-co-ord-set
+[PRODUCT] https://www.virgio.com/products/perfect-match-torrid-cotton-co-ord
+[PRODUCT] https://www.virgio.com/products/rose-revival-viscose-linen-co-ords
+[PRODUCT] https://www.virgio.com/products/poppy-poplin-cotton-floral-co-ord-set
+[PRODUCT] https://www.virgio.com/products/perfect-match-floral-modal-co-ord
+[PRODUCT] https://www.virgio.com/products/ric-rac-lace-blue-lace-detail-co-ords
+[PRODUCT] https://www.virgio.com/products/smocking-hot-hit2-cotton-peplum-co-ord-set
+[PRODUCT] https://www.virgio.com/products/academic-edge-hit1-cropped-hoodie-shorts-co-ord
+[PRODUCT] https://www.virgio.com/products/perfect-match-cotton-drill-co-ord
+[PRODUCT] https://www.virgio.com/products/academic-edge-hit1-hoodie-shorts-co-ord-set
+[PRODUCT] https://www.virgio.com/products/perfect-match-drill-cotton-co-ord
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/trending-now-western-wear-for-women
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/kids/c/6266?root=topnav_1
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/products/veronicas-chic-cotton-co-ords
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/products/date-chic-red-solid-co-ords
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/new-in-western-wear-for-women
+[ERROR Axios] https://www.virgio.com/collections/bottomwear-date - Request failed with status code 404
+[PRODUCT] https://www.nykaafashion.com/united-colors-of-benetton-boxy-fit-collared-solid-red-polo-t-shirt/p/16725976
+[PRODUCT] https://www.nykaafashion.com/jockey-juniors-boys-white-vests/p/9026790
+[PRODUCT] https://www.nykaafashion.com/anthrilo-summer-purple-t-shirt-floral-leggings-set-of-2/p/15081788
+[PRODUCT] https://www.nykaafashion.com/nite-flite-strawberry-printed-top-with-shorts-set-of-2/p/19926764
+[PRODUCT] https://www.nykaafashion.com/vastramay-girls-mint-green-dress/p/15744309
+[PRODUCT] https://www.nykaafashion.com/baby-jalebi-the-oval-picture-perfect-gift-box-ecru/p/14090882
+[PRODUCT] https://www.nykaafashion.com/piccolo-off-shoulder-embellished-dress/p/2106386
+[PRODUCT] https://www.nykaafashion.com/anthrilo-unicorn-planet-purple-sleepwear-top-and-shorts-set-of-2/p/10759466
+[PRODUCT] https://www.nykaafashion.com/angel-rocket-self-design-turquoise-dresses/p/15202239
+[PRODUCT] https://www.nykaafashion.com/mini-klub-girls-pink-dress/p/17650136
+[PRODUCT] https://www.nykaafashion.com/hopscotch-girls-beige-all-over-print-full-sleeve-casual-dress-with-headband/p/18905093
+[PRODUCT] https://www.nykaafashion.com/stylo-bug-girls-checks-printed-shirt-collar-short-sleeves-mini-dress-navy-blue/p/18991313
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/products/date-breezy-black-relaxed-trousers
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/home/c/8528?root=topnav_1
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/products/date-comfy-beige-relaxed-trousers
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/view-all-western-wear-for-women
+[Playwright][DEPTH 1] Visiting: https://www.tatacliq.com/my-account/cliq-cash
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/products/veronicas-retro-cotton-pleated-skirt
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/dresses-jumpsuits
+[Cheerio][DEPTH 1] Visiting: https://www.virgio.com/products/veronicas-playful-cotton-checked-skirt
+[PRODUCT] https://www.nykaafashion.com/bajo-s-100percent-cotton-300-tc-king-size-bedsheet-with-pillow-covers-aqua/p/20195881
+[PRODUCT] https://www.nykaafashion.com/saral-home-microfiber-multi-purpose-runner-grey-40x140-cm/p/7733503
+[PRODUCT] https://www.nykaafashion.com/trident-living-comforter-120-gsm-polyester-soft-reversible-comforter-queen-rose-dust/p/7667269
+[PRODUCT] https://www.nykaafashion.com/the-home-story-6-seater-oval-dining-table-cover-60-x-90-in/p/10871009
+[PRODUCT] https://www.nykaafashion.com/candes-florence-48-inch-high-speed-anti-dust-ceiling-fan-1200mm-pack-of-2/p/17337787
+[PRODUCT] https://www.nykaafashion.com/wonderchef-nutri-cup-portable-blender-with-usb-charger-pink-300-ml/p/9607194
+[ERROR Axios] https://www.virgio.com/collections/bottomwear-date - Request failed with status code 404
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/blazer-and-jacket
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/all-brands?root=topnav_1
+[Cheerio][DEPTH 2] Visiting: https://www.virgio.com/collections/anjali-picks-btc
+[Playwright][DEPTH 1] Visiting: https://www.tatacliq.com/search/page-1?q=watches+eoss%3Arelevance%3Alist%3AlistId_c729b9dd2d574f72826dba1938dadb2c%3AinStockFlag%3Atrue%3Acategory%3AMSH15%3Agender%3AMen%3Agender%3AUnisex%3Agender%3AWomen&icid2=hero:hbr:main:hmp:m15:mulb:best:06:R2:clp:bx:010
+[ERROR Axios] https://www.virgio.com/collections/bottomwear-date - Request failed with status code 404
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/shirts-tops
+[Cheerio][DEPTH 2] Visiting: https://www.virgio.com/account/orders
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/luxe?pageType=nf-luxe&pageVariation=1&root=topnav_1,more,1
+[Cheerio][DEPTH 2] Visiting: https://www.virgio.com/account/profile
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/t-shirts-for-women
+[PRODUCT] https://www.tatacliq.com/fossil-fs4795-dean-analog-watch-for-men/p-mp000000004109223
+[PRODUCT] https://www.tatacliq.com/fossil-fs4795-dean-analog-watch-for-men/p-mp000000004109223
+[PRODUCT] https://www.tatacliq.com/titan-10027sm01-analog-watch-for-men/p-mp000000023202786
+[PRODUCT] https://www.tatacliq.com/titan-10027sm01-analog-watch-for-men/p-mp000000023202786
+[PRODUCT] https://www.tatacliq.com/timex-tw5m20400-command-shock-digital-watch-for-men/p-mp000000023926303
+[PRODUCT] https://www.tatacliq.com/timex-tw5m20400-command-shock-digital-watch-for-men/p-mp000000023926303
+[PRODUCT] https://www.tatacliq.com/tissot-seastar-1000-chronograph-t1204171105101/p-mp000000009727001
+[PRODUCT] https://www.tatacliq.com/tissot-seastar-1000-chronograph-t1204171105101/p-mp000000009727001
+[PRODUCT] https://www.tatacliq.com/maserati-r8851108027-potenza-analog-watch-for-men/p-mp000000007660717
+[PRODUCT] https://www.tatacliq.com/maserati-r8851108027-potenza-analog-watch-for-men/p-mp000000007660717
+[PRODUCT] https://www.tatacliq.com/french-connection-fck1sm-astral-analog-watch-for-men/p-mp000000023536727
+[PRODUCT] https://www.tatacliq.com/french-connection-fck1sm-astral-analog-watch-for-men/p-mp000000023536727
+[PRODUCT] https://www.tatacliq.com/fossil-sullivan-bq2457-analog-watch-for-men/p-mp000000021982894
+[PRODUCT] https://www.tatacliq.com/fossil-sullivan-bq2457-analog-watch-for-men/p-mp000000021982894
+[PRODUCT] https://www.tatacliq.com/armani-exchange-black-watch-ax2189/p-mp000000014383712
+[PRODUCT] https://www.tatacliq.com/armani-exchange-black-watch-ax2189/p-mp000000014383712
+[PRODUCT] https://www.tatacliq.com/titan-ns2674sm01-premium-workwear-analog-watch-for-women/p-mp000000022303780
+[PRODUCT] https://www.tatacliq.com/titan-ns2674sm01-premium-workwear-analog-watch-for-women/p-mp000000022303780
+[PRODUCT] https://www.tatacliq.com/tissot-t1432101103300-t-classic-analog-watch-for-women/p-mp000000022314116
+[PRODUCT] https://www.tatacliq.com/tissot-t1432101103300-t-classic-analog-watch-for-women/p-mp000000022314116
+[PRODUCT] https://www.tatacliq.com/titan-purple-ns95207qd01-analog-watch-for-women/p-mp000000022292375
+[PRODUCT] https://www.tatacliq.com/titan-purple-ns95207qd01-analog-watch-for-women/p-mp000000022292375
+[PRODUCT] https://www.tatacliq.com/maserati-r8873612041-traguardo-chronograph-watch-for-men/p-mp000000020528171
+[PRODUCT] https://www.tatacliq.com/maserati-r8873612041-traguardo-chronograph-watch-for-men/p-mp000000020528171
+[PRODUCT] https://www.tatacliq.com/timex-twtl87smu03-fashion-analog-watch-for-women/p-mp000000024275373
+[PRODUCT] https://www.tatacliq.com/timex-twtl87smu03-fashion-analog-watch-for-women/p-mp000000024275373
+[PRODUCT] https://www.tatacliq.com/french-connection-fca06-3-automatic-watch-for-women/p-mp000000020929411
+[PRODUCT] https://www.tatacliq.com/french-connection-fca06-3-automatic-watch-for-women/p-mp000000020929411
+[PRODUCT] https://www.tatacliq.com/titan-ns95177qm01-unending-beauty-automatic-analog-watch-for-women/p-mp000000022304389
+[PRODUCT] https://www.tatacliq.com/titan-ns95177qm01-unending-beauty-automatic-analog-watch-for-women/p-mp000000022304389
+[PRODUCT] https://www.tatacliq.com/tissot-classic-dream-swissmatic-t1294072203100/p-mp000000009727008
+[PRODUCT] https://www.tatacliq.com/tissot-classic-dream-swissmatic-t1294072203100/p-mp000000009727008
+[PRODUCT] https://www.tatacliq.com/mathey-tissot-h123chav-lagoon-analog-watch-for-men/p-mp000000022381693
+[PRODUCT] https://www.tatacliq.com/mathey-tissot-h123chav-lagoon-analog-watch-for-men/p-mp000000022381693
+[PRODUCT] https://www.tatacliq.com/fossil-bq1571-modern-sophisticate-analog-watch-for-women/p-mp000000014383697
+[PRODUCT] https://www.tatacliq.com/fossil-bq1571-modern-sophisticate-analog-watch-for-women/p-mp000000014383697
+[PRODUCT] https://www.tatacliq.com/maserati-r8871618013-classic-chronograph-watch-for-men/p-mp000000020528166
+[PRODUCT] https://www.tatacliq.com/maserati-r8871618013-classic-chronograph-watch-for-men/p-mp000000020528166
+[PRODUCT] https://www.tatacliq.com/guess-analog-rose-gold-dial-womens-watch-gw0302l3/p-mp000000019270291
+[PRODUCT] https://www.tatacliq.com/guess-analog-rose-gold-dial-womens-watch-gw0302l3/p-mp000000019270291
+[PRODUCT] https://www.tatacliq.com/french-connection-lumine-fcp41um-analog-watch-for-men/p-mp000000019611651
+[PRODUCT] https://www.tatacliq.com/french-connection-lumine-fcp41um-analog-watch-for-men/p-mp000000019611651
+[PRODUCT] https://www.tatacliq.com/tissot-t1434101103300-t-classic-everytime-swiss-analog-watch-for-men/p-mp000000022314106
+[PRODUCT] https://www.tatacliq.com/tissot-t1434101103300-t-classic-everytime-swiss-analog-watch-for-men/p-mp000000022314106
+[PRODUCT] https://www.tatacliq.com/armani-exchange-brown-watch-ax2706/p-mp000000009937172
+[PRODUCT] https://www.tatacliq.com/armani-exchange-brown-watch-ax2706/p-mp000000009937172
+[PRODUCT] https://www.tatacliq.com/titan-slimline-ns95181wm01-analog-watch-for-women/p-mp000000022292353
+[PRODUCT] https://www.tatacliq.com/titan-slimline-ns95181wm01-analog-watch-for-women/p-mp000000022292353
+[PRODUCT] https://www.tatacliq.com/tommy-hilfiger-th1791848w-analog-watch-for-men/p-mp000000013856292
+[PRODUCT] https://www.tatacliq.com/tommy-hilfiger-th1791848w-analog-watch-for-men/p-mp000000013856292
+[PRODUCT] https://www.tatacliq.com/titan-ns95236wm02-purple-style-up-analog-watch-for-women/p-mp000000022622932
+[PRODUCT] https://www.tatacliq.com/titan-ns95236wm02-purple-style-up-analog-watch-for-women/p-mp000000022622932
+[PRODUCT] https://www.tatacliq.com/maserati-r8871621015-successo-watch-for-men/p-mp000000020528173
+[PRODUCT] https://www.tatacliq.com/maserati-r8871621015-successo-watch-for-men/p-mp000000020528173
+[PRODUCT] https://www.tatacliq.com/mathey-tissot-d810ra-rolly-3-analog-watch-for-women/p-mp000000005957159
+[PRODUCT] https://www.tatacliq.com/mathey-tissot-d810ra-rolly-3-analog-watch-for-women/p-mp000000005957159
+[PRODUCT] https://www.tatacliq.com/casio-vintage-a1000d-7ef-white-digital-dial-silver-stainless-steel-band-d193/p-mp000000010270893
+[PRODUCT] https://www.tatacliq.com/casio-vintage-a1000d-7ef-white-digital-dial-silver-stainless-steel-band-d193/p-mp000000010270893
+[PRODUCT] https://www.tatacliq.com/invicta-48548-specialty-analog-watch-for-men/p-mp000000024833696
+[PRODUCT] https://www.tatacliq.com/invicta-48548-specialty-analog-watch-for-men/p-mp000000024833696
+[PRODUCT] https://www.tatacliq.com/tissot-prs-516-chronograph-t1316173605200/p-mp000000009727016
+[PRODUCT] https://www.tatacliq.com/tissot-prs-516-chronograph-t1316173605200/p-mp000000009727016
+[PRODUCT] https://www.tatacliq.com/titan-ns95142qm01-slimline-analog-watch-for-women/p-mp000000022304365
+[PRODUCT] https://www.tatacliq.com/titan-ns95142qm01-slimline-analog-watch-for-women/p-mp000000022304365
+[PRODUCT] https://www.tatacliq.com/mathey-tissot-h7917abu-monsoon-square-analog-watch-for-men/p-mp000000023184422
+[PRODUCT] https://www.tatacliq.com/mathey-tissot-h7917abu-monsoon-square-analog-watch-for-men/p-mp000000023184422
+[PRODUCT] https://www.tatacliq.com/maserati-r8851118016-classic-watch-for-men/p-mp000000020528182
+[PRODUCT] https://www.tatacliq.com/maserati-r8851118016-classic-watch-for-men/p-mp000000020528182
+[PRODUCT] https://www.tatacliq.com/titan-workwear-slimline-ns95143sl01-analog-watch-for-women/p-mp000000022292332
+[PRODUCT] https://www.tatacliq.com/titan-workwear-slimline-ns95143sl01-analog-watch-for-women/p-mp000000022292332
+[PRODUCT] https://www.tatacliq.com/tissot-t1434101603300-t-classic-everytime-swiss-analog-watch-for-men/p-mp000000022314111
+[PRODUCT] https://www.tatacliq.com/tissot-t1434101603300-t-classic-everytime-swiss-analog-watch-for-men/p-mp000000022314111
+[PRODUCT] https://www.tatacliq.com/timex-tw2w10400uj-marlin-chronograph-watch-for-men/p-mp000000020482957
+[PRODUCT] https://www.tatacliq.com/timex-tw2w10400uj-marlin-chronograph-watch-for-men/p-mp000000020482957
+[PRODUCT] https://www.tatacliq.com/titan-1805qm04-neo-splash-analog-watch-for-men/p-mp000000026543684
+[PRODUCT] https://www.tatacliq.com/titan-1805qm04-neo-splash-analog-watch-for-men/p-mp000000026543684
+[PRODUCT] https://www.tatacliq.com/daniel-klein-dk11421-5-analog-watch-for-women/p-mp000000007364511
+[PRODUCT] https://www.tatacliq.com/daniel-klein-dk11421-5-analog-watch-for-women/p-mp000000007364511
+[PRODUCT] https://www.tatacliq.com/joker-witch-amww763-venice-analog-watch-for-women/p-mp000000023920498
+[PRODUCT] https://www.tatacliq.com/joker-witch-amww763-venice-analog-watch-for-women/p-mp000000023920498
+[PRODUCT] https://www.tatacliq.com/fossil-fs4795-dean-analog-watch-for-men/p-mp000000004109223
+[PRODUCT] https://www.tatacliq.com/titan-10027sm01-analog-watch-for-men/p-mp000000023202786
+[PRODUCT] https://www.tatacliq.com/timex-tw5m20400-command-shock-digital-watch-for-men/p-mp000000023926303
+[PRODUCT] https://www.tatacliq.com/tissot-seastar-1000-chronograph-t1204171105101/p-mp000000009727001
+[PRODUCT] https://www.tatacliq.com/maserati-r8851108027-potenza-analog-watch-for-men/p-mp000000007660717
+[PRODUCT] https://www.tatacliq.com/french-connection-fck1sm-astral-analog-watch-for-men/p-mp000000023536727
+[PRODUCT] https://www.tatacliq.com/fossil-sullivan-bq2457-analog-watch-for-men/p-mp000000021982894
+[PRODUCT] https://www.tatacliq.com/armani-exchange-black-watch-ax2189/p-mp000000014383712
+[PRODUCT] https://www.tatacliq.com/titan-ns2674sm01-premium-workwear-analog-watch-for-women/p-mp000000022303780
+[PRODUCT] https://www.tatacliq.com/tissot-t1432101103300-t-classic-analog-watch-for-women/p-mp000000022314116
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/jeans-western-wear-for-women
+[Playwright][DEPTH 1] Visiting: https://www.tatacliq.com/search?q=ethnic+wear+-+suits+%3Arelevance%3Alist%3AlistId_59a1e9ec8bcc43d9b58129df7c028544%3AinStockFlag%3Atrue%3Abrand%3AMBH11A00005%3Abrand%3AMBH11B13459%3Abrand%3AMBH11B11076%3Abrand%3AMBH11A00367%3Abrand%3AMBH11B10519%3Abrand%3AMBH11A00438%3Abrand%3AMBH11A00006%3AdiscountFlag%3A50%25+-+70%25%3AdiscountFlag%3A70%2525%2Band%2Bmore&icid2=hero:hbr:main:hmp:m10:mulb:best:01:R2:clp:bx:010
+[Cheerio][DEPTH 2] Visiting: https://www.virgio.com/account/addresses
+[PRODUCT] https://www.nykaafashion.com/shorshe-purple-chanderi-kurta-set-set-of-2/p/14658797?transaction_id=ad6c66840b4c691e264e24885b6d6607
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/trousers-joggers
+[ERROR Axios] https://www.virgio.com/collections/bottomwear-date - Request failed with status code 404
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/hidden-gems?pageType=nf-hidden-gems&root=topnav_1,more,2
+[Cheerio][DEPTH 2] Visiting: https://www.virgio.com/blogs/news/beyond-the-curve-by-virgio
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/skirts-shorts
+[PRODUCT] https://www.tatacliq.com/libas-white-printed-kurta-sets/p-mp000000026048364
+[PRODUCT] https://www.tatacliq.com/libas-white-printed-kurta-sets/p-mp000000026048364
+[PRODUCT] https://www.tatacliq.com/w-white-striped-kurti-pant-set/p-mp000000023222479
+[PRODUCT] https://www.tatacliq.com/w-white-striped-kurti-pant-set/p-mp000000023222479
+[PRODUCT] https://www.tatacliq.com/varanga-yellow-embroidered-kurta-trousers-with-dupatta/p-mp000000026795691
+[PRODUCT] https://www.tatacliq.com/varanga-yellow-embroidered-kurta-trousers-with-dupatta/p-mp000000026795691
+[PRODUCT] https://www.tatacliq.com/fashor-off-white-silk-solid-three-quarter-sleeves-suit-set/p-mp000000025945034
+[PRODUCT] https://www.tatacliq.com/fashor-off-white-silk-solid-three-quarter-sleeves-suit-set/p-mp000000025945034
+[PRODUCT] https://www.tatacliq.com/aurelia-blue-regular-fit-kurta-with-palazzos/p-mp000000024230589
+[PRODUCT] https://www.tatacliq.com/aurelia-blue-regular-fit-kurta-with-palazzos/p-mp000000024230589
+[PRODUCT] https://www.tatacliq.com/libas-black-cotton-striped-kurta-palazzo-set-with-dupatta/p-mp000000023145892
+[PRODUCT] https://www.tatacliq.com/libas-black-cotton-striped-kurta-palazzo-set-with-dupatta/p-mp000000023145892
+[PRODUCT] https://www.tatacliq.com/libas-off-white-cotton-embroidered-kurta-pant-set-with-dupatta/p-mp000000023715591
+[PRODUCT] https://www.tatacliq.com/libas-off-white-cotton-embroidered-kurta-pant-set-with-dupatta/p-mp000000023715591
+[PRODUCT] https://www.tatacliq.com/varanga-teal-printed-kurta-bottom-dupatta-set/p-mp000000025348835
+[PRODUCT] https://www.tatacliq.com/varanga-teal-printed-kurta-bottom-dupatta-set/p-mp000000025348835
+[PRODUCT] https://www.tatacliq.com/varanga-rust-solid-kurta-and-pant-with-dupatta/p-mp000000025142294
+[PRODUCT] https://www.tatacliq.com/varanga-rust-solid-kurta-and-pant-with-dupatta/p-mp000000025142294
+[PRODUCT] https://www.tatacliq.com/w-peach-yellow-cotton-printed-tunic-palazzo-set/p-mp000000018283053
+[PRODUCT] https://www.tatacliq.com/w-peach-yellow-cotton-printed-tunic-palazzo-set/p-mp000000018283053
+[PRODUCT] https://www.tatacliq.com/indo-era-black-embroidered-kurta-and-salwar-with-dupatta/p-mp000000025261593
+[PRODUCT] https://www.tatacliq.com/indo-era-black-embroidered-kurta-and-salwar-with-dupatta/p-mp000000025261593
+[PRODUCT] https://www.tatacliq.com/fashor-purple-pure-cotton-printed-kurta-set/p-mp000000025605570
+[PRODUCT] https://www.tatacliq.com/fashor-purple-pure-cotton-printed-kurta-set/p-mp000000025605570
+[PRODUCT] https://www.tatacliq.com/indo-era-green-woven-pattern-kurta-palazzo-set-with-dupatta/p-mp000000012298791
+[PRODUCT] https://www.tatacliq.com/indo-era-green-woven-pattern-kurta-palazzo-set-with-dupatta/p-mp000000012298791
+[PRODUCT] https://www.tatacliq.com/varanga-multicolored-printed-kurti-palazzo-set/p-mp000000020685278
+[PRODUCT] https://www.tatacliq.com/varanga-multicolored-printed-kurti-palazzo-set/p-mp000000020685278
+[PRODUCT] https://www.tatacliq.com/fashor-purple-muslin-embroidered-palazzo-set-with-dupatta/p-mp000000025605350
+[PRODUCT] https://www.tatacliq.com/fashor-purple-muslin-embroidered-palazzo-set-with-dupatta/p-mp000000025605350
+[PRODUCT] https://www.tatacliq.com/libas-baby-pink-cotton-printed-kurta-palazzo-set-with-dupatta/p-mp000000006457040
+[PRODUCT] https://www.tatacliq.com/libas-baby-pink-cotton-printed-kurta-palazzo-set-with-dupatta/p-mp000000006457040
+[PRODUCT] https://www.tatacliq.com/libas-maroon-cotton-blend-regular-fit-kurta-sets/p-mp000000024301218
+[PRODUCT] https://www.tatacliq.com/libas-maroon-cotton-blend-regular-fit-kurta-sets/p-mp000000024301218
+[PRODUCT] https://www.tatacliq.com/varanga-pink-silk-blend-embroidered-three-quarter-sleeves-suit-set/p-mp000000025788852
+[PRODUCT] https://www.tatacliq.com/varanga-pink-silk-blend-embroidered-three-quarter-sleeves-suit-set/p-mp000000025788852
+[PRODUCT] https://www.tatacliq.com/varanga-blue-pure-cotton-printed-sleeveless-suit-set/p-mp000000025788816
+[PRODUCT] https://www.tatacliq.com/varanga-blue-pure-cotton-printed-sleeveless-suit-set/p-mp000000025788816
+[PRODUCT] https://www.tatacliq.com/varanga-fuchsia-printed-kurta-with-pant/p-mp000000025042301
+[PRODUCT] https://www.tatacliq.com/varanga-fuchsia-printed-kurta-with-pant/p-mp000000025042301
+[PRODUCT] https://www.tatacliq.com/fashor-lime-green-pure-cotton-embroidered-kurta-set/p-mp000000025605637
+[PRODUCT] https://www.tatacliq.com/fashor-lime-green-pure-cotton-embroidered-kurta-set/p-mp000000025605637
+[PRODUCT] https://www.tatacliq.com/fashor-blue-rayon-printed-three-quarter-sleeves-co-ord-set/p-mp000000026400960
+[PRODUCT] https://www.tatacliq.com/fashor-blue-rayon-printed-three-quarter-sleeves-co-ord-set/p-mp000000026400960
+[PRODUCT] https://www.tatacliq.com/fashor-yellow-supernet-embroidered-three-quarter-sleeves-kurta-set/p-mp000000026401259
+[PRODUCT] https://www.tatacliq.com/fashor-yellow-supernet-embroidered-three-quarter-sleeves-kurta-set/p-mp000000026401259
+[PRODUCT] https://www.tatacliq.com/indo-era-pink-linen-regular-fit-embroidered-kurta-and-pant-with-dupatta/p-mp000000027002329
+[PRODUCT] https://www.tatacliq.com/indo-era-pink-linen-regular-fit-embroidered-kurta-and-pant-with-dupatta/p-mp000000027002329
+[PRODUCT] https://www.tatacliq.com/fashor-sea-green-tissue-printed-three-quarter-sleeves-kurta-set/p-mp000000026400907
+[PRODUCT] https://www.tatacliq.com/fashor-sea-green-tissue-printed-three-quarter-sleeves-kurta-set/p-mp000000026400907
+[PRODUCT] https://www.tatacliq.com/aurelia-blue-woven-pattern-kurta-palazzo-set-with-dupatta/p-mp000000021139313
+[PRODUCT] https://www.tatacliq.com/aurelia-blue-woven-pattern-kurta-palazzo-set-with-dupatta/p-mp000000021139313
+[PRODUCT] https://www.tatacliq.com/libas-grey-printed-kurta-palazzo-set-with-dupatta/p-mp000000022872976
+[PRODUCT] https://www.tatacliq.com/libas-grey-printed-kurta-palazzo-set-with-dupatta/p-mp000000022872976
+[PRODUCT] https://www.tatacliq.com/libas-maroon-floral-printed-kaftan-and-pants/p-mp000000025172598
+[PRODUCT] https://www.tatacliq.com/libas-maroon-floral-printed-kaftan-and-pants/p-mp000000025172598
+[PRODUCT] https://www.tatacliq.com/libas-off-white-printed-kurta-and-salwar-with-dupatta/p-mp000000025088235
+[PRODUCT] https://www.tatacliq.com/libas-off-white-printed-kurta-and-salwar-with-dupatta/p-mp000000025088235
+[PRODUCT] https://www.tatacliq.com/libas-green-plain-kurta-and-sharara-set-with-dupatta/p-mp000000024604703
+[PRODUCT] https://www.tatacliq.com/libas-green-plain-kurta-and-sharara-set-with-dupatta/p-mp000000024604703
+[PRODUCT] https://www.tatacliq.com/varanga-blue-woven-pattern-kurta-palazzo-set/p-mp000000023504516
+[PRODUCT] https://www.tatacliq.com/varanga-blue-woven-pattern-kurta-palazzo-set/p-mp000000023504516
+[PRODUCT] https://www.tatacliq.com/varanga-purple-embroidered-kurta-trousers-with-dupatta/p-mp000000026730468
+[PRODUCT] https://www.tatacliq.com/varanga-purple-embroidered-kurta-trousers-with-dupatta/p-mp000000026730468
+[PRODUCT] https://www.tatacliq.com/varanga-mustard-printed-kurta-with-pant/p-mp000000025042219
+[PRODUCT] https://www.tatacliq.com/varanga-mustard-printed-kurta-with-pant/p-mp000000025042219
+[PRODUCT] https://www.tatacliq.com/fashor-blue-cotton-slub-embroidered-kurta-set/p-mp000000026304220
+[PRODUCT] https://www.tatacliq.com/fashor-blue-cotton-slub-embroidered-kurta-set/p-mp000000026304220
+[PRODUCT] https://www.tatacliq.com/fashor-multi-pure-cotton-printed-three-quarter-sleeves-kurta-set/p-mp000000026400930
+[PRODUCT] https://www.tatacliq.com/fashor-multi-pure-cotton-printed-three-quarter-sleeves-kurta-set/p-mp000000026400930
+[PRODUCT] https://www.tatacliq.com/fashor-green-straight-fit-embroidered-kurta-set/p-mp000000027037623
+[PRODUCT] https://www.tatacliq.com/fashor-green-straight-fit-embroidered-kurta-set/p-mp000000027037623
+[PRODUCT] https://www.tatacliq.com/w-lilac-printed-kurta-pant-set/p-mp000000021646800
+[PRODUCT] https://www.tatacliq.com/w-lilac-printed-kurta-pant-set/p-mp000000021646800
+[PRODUCT] https://www.tatacliq.com/indo-era-black-regular-fit-embroidered-kurta-with-pant/p-mp000000027006993
+[PRODUCT] https://www.tatacliq.com/indo-era-black-regular-fit-embroidered-kurta-with-pant/p-mp000000027006993
+[PRODUCT] https://www.tatacliq.com/libas-pink-cotton-paisley-kurta-and-pant/p-mp000000025176732
+[PRODUCT] https://www.tatacliq.com/libas-pink-cotton-paisley-kurta-and-pant/p-mp000000025176732
+[PRODUCT] https://www.tatacliq.com/libas-pink-white-cotton-printed-kurta-palazzo-set-with-dupatta/p-mp000000023331184
+[PRODUCT] https://www.tatacliq.com/libas-pink-white-cotton-printed-kurta-palazzo-set-with-dupatta/p-mp000000023331184
+[PRODUCT] https://www.tatacliq.com/libas-white-printed-kurta-sets/p-mp000000026048364
+[PRODUCT] https://www.tatacliq.com/w-white-striped-kurti-pant-set/p-mp000000023222479
+[PRODUCT] https://www.tatacliq.com/varanga-yellow-embroidered-kurta-trousers-with-dupatta/p-mp000000026795691
+[PRODUCT] https://www.tatacliq.com/fashor-off-white-silk-solid-three-quarter-sleeves-suit-set/p-mp000000025945034
+[PRODUCT] https://www.tatacliq.com/aurelia-blue-regular-fit-kurta-with-palazzos/p-mp000000024230589
+[PRODUCT] https://www.tatacliq.com/libas-black-cotton-striped-kurta-palazzo-set-with-dupatta/p-mp000000023145892
+[PRODUCT] https://www.tatacliq.com/libas-off-white-cotton-embroidered-kurta-pant-set-with-dupatta/p-mp000000023715591
+[PRODUCT] https://www.tatacliq.com/varanga-teal-printed-kurta-bottom-dupatta-set/p-mp000000025348835
+[PRODUCT] https://www.tatacliq.com/varanga-rust-solid-kurta-and-pant-with-dupatta/p-mp000000025142294
+[PRODUCT] https://www.tatacliq.com/w-peach-yellow-cotton-printed-tunic-palazzo-set/p-mp000000018283053
+[Cheerio][DEPTH 2] Visiting: https://www.virgio.com/products/bold-minimal-rina-trucotton-flare-dress-with-bow-detail
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/trending-now-ethnic-wear-for-women
+[Cheerio][DEPTH 2] Visiting: https://www.virgio.com/products/bold-minimal-penyl-trucotton-back-tie-up-detail-tier-dress
+[RESULT] Found 180 product URLs
+[SAVED] Product URLs saved to ./results_all/tatacliq.com_1.json
+
+========== Starting crawl for https://www.zara.com/in/ ==========
+[PRODUCT] https://www.nykaafashion.com/dressfolk-chakori-saree/p/9890762?transaction_id=1e8c0c0cf0b8a24cb7c480e10db1f958
+[Playwright][DEPTH 0] Visiting: https://www.zara.com/in/
+[Cheerio][DEPTH 2] Visiting: https://www.virgio.com/products/boho-west-trucotton-fitted-button-front-waistcoat
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/global-store?pageType=nf-global-store&pageVariation=1&root=topnav_1,more,3
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/new-in-ethnic-wear-for-women
+[Cheerio][DEPTH 2] Visiting: https://www.virgio.com/products/floral-affair-nayra-trutencel-peplum-top-and-flared-skirt
+[RESULT] Found 126 product URLs
+[SAVED] Product URLs saved to ./results_all/virgio.com_1.json
+
+========== Starting crawl for https://www2.hm.com ==========
+[Cheerio][DEPTH 0] Visiting: https://www2.hm.com
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/view-all-ethnic-wear-for-women
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/index.html
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/women.html
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/revolve?pageType=nf-revolve&root=topnav_1,more,4
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/ethnic-co-ord-sets-for-women
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/men.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290111001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1272338003.html
+[Playwright][DEPTH 1] Visiting: https://www.zara.com/in/en/search/home
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/kurtas-for-women
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/kids.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293791001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263226023.html
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/ethnic-suits-for-women
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/home.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288897001.html
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/women-genz?pageType=nf-women-genz&root=topnav_1,more,5
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/favourites
+[PRODUCT] https://www.zara.com/in/en/gardenia-edp-orchid-edp-2-x-30-ml---1-01-oz-p20120688.html
+[PRODUCT] https://www.zara.com/in/en/gardenia-edp-orchid-edp-2-x-30-ml---1-01-oz-p20120688.html
+[PRODUCT] https://www.zara.com/in/en/orchid-edp-30ml---1-01-oz-p20120642.html
+[PRODUCT] https://www.zara.com/in/en/orchid-edp-30ml---1-01-oz-p20120642.html
+[PRODUCT] https://www.zara.com/in/en/red-zara-temptation-edp-30ml--1-0-fl--oz---p20110370.html
+[PRODUCT] https://www.zara.com/in/en/red-zara-temptation-edp-30ml--1-0-fl--oz---p20110370.html
+[PRODUCT] https://www.zara.com/in/en/red-vanilla-edt-90-ml---3-04%C2%A0oz-p20120673.html
+[PRODUCT] https://www.zara.com/in/en/red-vanilla-edt-90-ml---3-04%C2%A0oz-p20120673.html
+[PRODUCT] https://www.zara.com/in/en/apple-juice-edt-90ml---3-04%C2%A0oz-p20120804.html
+[PRODUCT] https://www.zara.com/in/en/apple-juice-edt-90ml---3-04%C2%A0oz-p20120804.html
+[PRODUCT] https://www.zara.com/in/en/crossbody-bag-p16064110.html
+[PRODUCT] https://www.zara.com/in/en/crossbody-bag-p16064110.html
+[PRODUCT] https://www.zara.com/in/en/checkered-skater-dress-p00085157.html
+[PRODUCT] https://www.zara.com/in/en/checkered-skater-dress-p00085157.html
+[PRODUCT] https://www.zara.com/in/en/high-heel-slingback-shoes-with-bow-p12267319.html
+[PRODUCT] https://www.zara.com/in/en/high-heel-slingback-shoes-with-bow-p12267319.html
+[PRODUCT] https://www.zara.com/in/en/golden-decade-edp-30ml--1-0-fl--oz---p20110517.html
+[PRODUCT] https://www.zara.com/in/en/golden-decade-edp-30ml--1-0-fl--oz---p20110517.html
+[PRODUCT] https://www.zara.com/in/en/knit-cardigan-with-golden-buttons-p06427144.html
+[PRODUCT] https://www.zara.com/in/en/knit-cardigan-with-golden-buttons-p06427144.html
+[PRODUCT] https://www.zara.com/in/en/buckle-slingback-shoes-p11217419.html
+[PRODUCT] https://www.zara.com/in/en/buckle-slingback-shoes-p11217419.html
+[PRODUCT] https://www.zara.com/in/en/red-zara-temptation-edp-80ml--2-71-fl--oz---p20110242.html
+[PRODUCT] https://www.zara.com/in/en/red-zara-temptation-edp-80ml--2-71-fl--oz---p20110242.html
+[PRODUCT] https://www.zara.com/in/en/crackled-high-heel-shoes-p13900419.html
+[PRODUCT] https://www.zara.com/in/en/crackled-high-heel-shoes-p13900419.html
+[PRODUCT] https://www.zara.com/in/en/flatform-sneakers-p15405310.html
+[PRODUCT] https://www.zara.com/in/en/flatform-sneakers-p15405310.html
+[PRODUCT] https://www.zara.com/in/en/short-cut-out-dress-with-buckle-p02800536.html
+[PRODUCT] https://www.zara.com/in/en/short-cut-out-dress-with-buckle-p02800536.html
+[PRODUCT] https://www.zara.com/in/en/applejuice-edt-30-ml---1-01%C2%A0oz-p20120805.html
+[PRODUCT] https://www.zara.com/in/en/applejuice-edt-30-ml---1-01%C2%A0oz-p20120805.html
+[PRODUCT] https://www.zara.com/in/en/long-flowing-dress-p05039327.html
+[PRODUCT] https://www.zara.com/in/en/long-flowing-dress-p05039327.html
+[PRODUCT] https://www.zara.com/in/en/violet-blossom-intense-edp-90ml--3-0-fl--oz--glitter-cream-150ml--5-0-fl--oz---p20120598.html
+[PRODUCT] https://www.zara.com/in/en/violet-blossom-intense-edp-90ml--3-0-fl--oz--glitter-cream-150ml--5-0-fl--oz---p20120598.html
+[PRODUCT] https://www.zara.com/in/en/gardenia-intense-edp-90-ml--3-0-fl--oz--glitter-cream-150-ml--5-0-fl--oz---p20120595.html
+[PRODUCT] https://www.zara.com/in/en/gardenia-intense-edp-90-ml--3-0-fl--oz--glitter-cream-150-ml--5-0-fl--oz---p20120595.html
+[PRODUCT] https://www.zara.com/in/en/minaudiere-with-golden-clasp-p16862410.html
+[PRODUCT] https://www.zara.com/in/en/minaudiere-with-golden-clasp-p16862410.html
+[PRODUCT] https://www.zara.com/in/en/midi-crepe-belt-dress-p03897054.html
+[PRODUCT] https://www.zara.com/in/en/midi-crepe-belt-dress-p03897054.html
+[PRODUCT] https://www.zara.com/in/en/patent-finish-loafers-p12910519.html
+[PRODUCT] https://www.zara.com/in/en/patent-finish-loafers-p12910519.html
+[PRODUCT] https://www.zara.com/in/en/trf-mom-fit-high-waist-jeans-p02569047.html
+[PRODUCT] https://www.zara.com/in/en/trf-mom-fit-high-waist-jeans-p02569047.html
+[PRODUCT] https://www.zara.com/in/en/textured-clasp-top-p03644177.html
+[PRODUCT] https://www.zara.com/in/en/textured-clasp-top-p03644177.html
+[PRODUCT] https://www.zara.com/in/en/high-waist-trousers-p09929132.html
+[PRODUCT] https://www.zara.com/in/en/high-waist-trousers-p09929132.html
+[PRODUCT] https://www.zara.com/in/en/gardenia-orchid-edp-2-x-90ml--3-04-fl--oz---p20120828.html
+[PRODUCT] https://www.zara.com/in/en/gardenia-orchid-edp-2-x-90ml--3-04-fl--oz---p20120828.html
+[PRODUCT] https://www.zara.com/in/en/crossbody-bag-p16064110.html
+[PRODUCT] https://www.zara.com/in/en/crossbody-bag-p16064110.html
+[PRODUCT] https://www.zara.com/in/en/zw-collection-print-dress-p02183004.html
+[PRODUCT] https://www.zara.com/in/en/zw-collection-print-dress-p02183004.html
+[PRODUCT] https://www.zara.com/in/en/dress-with-clasps-p00264162.html
+[PRODUCT] https://www.zara.com/in/en/dress-with-clasps-p00264162.html
+[PRODUCT] https://www.zara.com/in/en/contrast-canvas-mini-tote-bag-p16520610.html
+[PRODUCT] https://www.zara.com/in/en/contrast-canvas-mini-tote-bag-p16520610.html
+[PRODUCT] https://www.zara.com/in/en/strapless-dress-with-foil-detail-p02293269.html
+[PRODUCT] https://www.zara.com/in/en/strapless-dress-with-foil-detail-p02293269.html
+[PRODUCT] https://www.zara.com/in/en/cut-out-back-waistcoat-p04749776.html
+[PRODUCT] https://www.zara.com/in/en/cut-out-back-waistcoat-p04749776.html
+[PRODUCT] https://www.zara.com/in/en/soft-button-coat-p05070660.html
+[PRODUCT] https://www.zara.com/in/en/soft-button-coat-p05070660.html
+[PRODUCT] https://www.zara.com/in/en/stretch-square-neck-dress-p05584195.html
+[PRODUCT] https://www.zara.com/in/en/stretch-square-neck-dress-p05584195.html
+[PRODUCT] https://www.zara.com/in/en/strapless-dress-with-lapels-p03067311.html
+[PRODUCT] https://www.zara.com/in/en/strapless-dress-with-lapels-p03067311.html
+[PRODUCT] https://www.zara.com/in/en/high-heel-sandals-with-metal-appliques-p11340519.html
+[PRODUCT] https://www.zara.com/in/en/high-heel-sandals-with-metal-appliques-p11340519.html
+[PRODUCT] https://www.zara.com/in/en/metallic-slingbacks-with-maxi-bow-p13804419.html
+[PRODUCT] https://www.zara.com/in/en/metallic-slingbacks-with-maxi-bow-p13804419.html
+[PRODUCT] https://www.zara.com/in/en/polyamide-top-with-wide-straps-p03905531.html
+[PRODUCT] https://www.zara.com/in/en/polyamide-top-with-wide-straps-p03905531.html
+[PRODUCT] https://www.zara.com/in/en/gardenia-edp-90ml---3-04%C2%A0oz-p20120824.html
+[PRODUCT] https://www.zara.com/in/en/gardenia-edp-90ml---3-04%C2%A0oz-p20120824.html
+[PRODUCT] https://www.zara.com/in/en/stretch-flare-trousers-p05584191.html
+[PRODUCT] https://www.zara.com/in/en/stretch-flare-trousers-p05584191.html
+[PRODUCT] https://www.zara.com/in/en/red-zara-temptation-vanille-extrait-de-parfum-50ml--1-7-fl--oz--p20110603.html
+[PRODUCT] https://www.zara.com/in/en/red-zara-temptation-vanille-extrait-de-parfum-50ml--1-7-fl--oz--p20110603.html
+[PRODUCT] https://www.zara.com/in/en/buckled-flat-sandals-p13609519.html
+[PRODUCT] https://www.zara.com/in/en/buckled-flat-sandals-p13609519.html
+[PRODUCT] https://www.zara.com/in/en/floral-print-tulle-mini-dress-p05039133.html
+[PRODUCT] https://www.zara.com/in/en/floral-print-tulle-mini-dress-p05039133.html
+[PRODUCT] https://www.zara.com/in/en/flare-plush-trousers-p03253329.html
+[PRODUCT] https://www.zara.com/in/en/flare-plush-trousers-p03253329.html
+[PRODUCT] https://www.zara.com/in/en/patent-wedges-p11333419.html
+[PRODUCT] https://www.zara.com/in/en/patent-wedges-p11333419.html
+[PRODUCT] https://www.zara.com/in/en/metallic-thread-midi-camisole-dress-p03550999.html
+[PRODUCT] https://www.zara.com/in/en/metallic-thread-midi-camisole-dress-p03550999.html
+[PRODUCT] https://www.zara.com/in/en/printed-midi-dress-with-cutwork-embroidery-p08741060.html
+[PRODUCT] https://www.zara.com/in/en/printed-midi-dress-with-cutwork-embroidery-p08741060.html
+[PRODUCT] https://www.zara.com/in/en/jeans-z1975-straight-high-waist-full-length-p01889151.html
+[PRODUCT] https://www.zara.com/in/en/jeans-z1975-straight-high-waist-full-length-p01889151.html
+[PRODUCT] https://www.zara.com/in/en/short-denim-effect-dress-with-ruffles-p06929084.html
+[PRODUCT] https://www.zara.com/in/en/short-denim-effect-dress-with-ruffles-p06929084.html
+[PRODUCT] https://www.zara.com/in/en/golden-decade-edp-80ml--2-71-fl--oz---p20110518.html
+[PRODUCT] https://www.zara.com/in/en/golden-decade-edp-80ml--2-71-fl--oz---p20110518.html
+[PRODUCT] https://www.zara.com/in/en/floral-print-knit-dress-p01822024.html
+[PRODUCT] https://www.zara.com/in/en/floral-print-knit-dress-p01822024.html
+[PRODUCT] https://www.zara.com/in/en/amber-fusion-edp-80ml--2-71-fl--oz---p20110244.html
+[PRODUCT] https://www.zara.com/in/en/amber-fusion-edp-80ml--2-71-fl--oz---p20110244.html
+[PRODUCT] https://www.zara.com/in/en/tuberose-summer-summer-edt-90-ml---3-04-fl--oz-p20120512.html
+[PRODUCT] https://www.zara.com/in/en/tuberose-summer-summer-edt-90-ml---3-04-fl--oz-p20120512.html
+[PRODUCT] https://www.zara.com/in/en/fine-knit-striped-sweater-p01509005.html
+[PRODUCT] https://www.zara.com/in/en/fine-knit-striped-sweater-p01509005.html
+[PRODUCT] https://www.zara.com/in/en/soft-button-coat-p05070660.html
+[PRODUCT] https://www.zara.com/in/en/soft-button-coat-p05070660.html
+[PRODUCT] https://www.zara.com/in/en/fields-at-nightfall-blush-edp-100-ml---3-38%C2%A0oz-p20130269.html
+[PRODUCT] https://www.zara.com/in/en/fields-at-nightfall-blush-edp-100-ml---3-38%C2%A0oz-p20130269.html
+[PRODUCT] https://www.zara.com/in/en/printed-linen-blend-midi-dress-p06962031.html
+[PRODUCT] https://www.zara.com/in/en/printed-linen-blend-midi-dress-p06962031.html
+[PRODUCT] https://www.zara.com/in/en/short-sweetheart-neckline-dress-p03152379.html
+[PRODUCT] https://www.zara.com/in/en/short-sweetheart-neckline-dress-p03152379.html
+[PRODUCT] https://www.zara.com/in/en/fitted-midi-dress-p05644120.html
+[PRODUCT] https://www.zara.com/in/en/fitted-midi-dress-p05644120.html
+[PRODUCT] https://www.zara.com/in/en/nude-bouquet-edp-100ml--3-4-fl--oz---p20130190.html
+[PRODUCT] https://www.zara.com/in/en/nude-bouquet-edp-100ml--3-4-fl--oz---p20130190.html
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/kurtis-tunics-for-women
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/women/sale/view-all.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275471005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275471005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1271514005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1271514005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281807003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281807003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1262025006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1262025006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290395001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290395001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1285587001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1285587001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282891004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282891004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1272185002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1272185002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1228514009.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1228514009.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1262105010.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1262105010.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282891003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282891003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1107360001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1107360001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1272185001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1272185001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1025457019.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1025457019.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263368004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263368004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1269443006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1269443006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1257582001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1257582001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1217576021.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1217576021.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1266261002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1266261002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1280771004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1280771004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281903001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281903001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1259173005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1259173005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289425004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289425004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282954001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282954001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276962003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276962003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282954003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282954003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1292281002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1292281002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1280391001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1280391001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1254658001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1254658001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1254654003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1254654003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1261645001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1261645001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1261647002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1261647002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1256611002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1256611002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1251499004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1251499004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1251510001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1251510001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281667001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281667001.html
+[RESULT] Found 120 product URLs
+[SAVED] Product URLs saved to ./results_all/zara.com_1.json
+
+========== Starting crawl for https://www.myntra.com ==========
+[Cheerio][DEPTH 0] Visiting: https://www.myntra.com
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/ethnic-dresses-for-women
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/men/sale/view-all.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1028144001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1028144001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1035207029.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1035207029.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0598755002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0598755002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1262292007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1262292007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1028144007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1028144007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0598755001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0598755001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265556002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265556002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263304001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263304001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1008549030.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1008549030.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1074402001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1074402001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265595002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265595002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1007334048.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1007334048.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277322002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277322002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275976002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275976002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276693002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276693002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276103001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276103001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1262641005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1262641005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1260527002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1260527002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276098001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276098001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1255794003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1255794003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265556003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265556003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277326001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277326001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1272783001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1272783001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1260179002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1260179002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275102001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275102001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276103002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276103002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1259828002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1259828002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282179001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282179001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1211099002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1211099002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275594003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275594003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263275001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263275001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1260816001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1260816001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1272789001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1272789001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265867001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265867001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1259389002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1259389002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282179002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282179002.html
+[PRODUCT] https://www.nykaafashion.com/forever-new-rebecca-off-shoulder-velvet-gown/p/17556508?transaction_id=984d196d5a45b216fef5f8ec0e9f7fcb
+[PRODUCT] https://www.nykaafashion.com/u-s-polo-assn-jacquard-collar-cotton-polo-t-shirt-white/p/16679023?transaction_id=5a78d793ec5c4fbe751dbb36207394f1
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/ethnic-tops-for-women
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/baby/sale/baby/view-all.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1126710020.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1126710020.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277740001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277740001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1160182013.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1160182013.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0533261020.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0533261020.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264418001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264418001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264417001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264417001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264423001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264423001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265910004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265910004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263213010.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263213010.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1126406022.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1126406022.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1224625006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1224625006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265207005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265207005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1261353002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1261353002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1142881008.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1142881008.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1268701002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1268701002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265612005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265612005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1257021002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1257021002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282705002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282705002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1226718003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1226718003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265207006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265207006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282998001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282998001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1262117002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1262117002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1283148001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1283148001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1274549001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1274549001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1142881006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1142881006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1142881009.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1142881009.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1126406028.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1126406028.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263203002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263203002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1284275003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1284275003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265612006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265612006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277740002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277740002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1280850006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1280850006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1126406027.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1126406027.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0579010066.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0579010066.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263204006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1263204006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1133696012.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1133696012.html
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/style-files/html?root=topnav_1,more,6
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/shop/men
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/kids/sale/2-8/view-all.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1073066039.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1073066039.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1073066043.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1073066043.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1227370007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1227370007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1227370006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1227370006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1227370004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1227370004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1227370005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1227370005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1009288077.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1009288077.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1286158001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1286158001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1228402026.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1228402026.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273252004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273252004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282640001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282640001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1286175001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1286175001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290744004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290744004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1234332007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1234332007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1122703023.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1122703023.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1228402020.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1228402020.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1267152002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1267152002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289502003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289502003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1286175002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1286175002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290053001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290053001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1228402022.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1228402022.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276436001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276436001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276711009.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276711009.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276711005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276711005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276711004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276711004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1216652072.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1216652072.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1216652070.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1216652070.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1134868013.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1134868013.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1269063001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1269063001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1228402024.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1228402024.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0611503100.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0611503100.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290744006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290744006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276438001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276438001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1216652068.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1216652068.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282330004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282330004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281558002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281558002.html
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/palazzos-skirts-ethnic-wear-for-women
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-topwear
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/salwars-pants-ethnic-wear-for-women
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/kids/sale/9-14/view-all.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288428005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288428005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1280849004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1280849004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1269618001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1269618001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273442003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273442003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1287813001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1287813001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1229905004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1229905004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1287813002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1287813002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265018006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265018006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273442002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273442002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276283003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276283003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1284822004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1284822004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276514001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276514001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1274301006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1274301006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273027001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273027001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276283002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1276283002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1253537001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1253537001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1253537002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1253537002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1041574043.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1041574043.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1284833002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1284833002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1228092002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1228092002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273026001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273026001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1270318001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1270318001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1270484001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1270484001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273025003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273025003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1278439001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1278439001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277393002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277393002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273595001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273595001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275150001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275150001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1211663020.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1211663020.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281260015.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281260015.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273116001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273116001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1270310001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1270310001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1284149001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1284149001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1226353001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1226353001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1280849002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1280849002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275150002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275150002.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-tshirts
+[PRODUCT] https://www.myntra.com/tshirts/roadster/roadster-men-white--pure-cotton-t-shirt/2275365/buy
+[PRODUCT] https://www.myntra.com/tshirts/hrx-by-hrithik-roshan/hrx-by-hrithik-roshan-men-yellow-printed-cotton-pure-cotton-t-shirt/1700944/buy
+[PRODUCT] https://www.myntra.com/tshirts/urbano-fashion/urbano-fashion-men-teal-green-slim-fit-tropical-printed-pure-cotton-t-shirt/12377258/buy
+[PRODUCT] https://www.myntra.com/tshirts/huetrap/huetrap-men-beige--black-typography-printed-sustainable-t-shirt/11148764/buy
+[PRODUCT] https://www.myntra.com/tshirts/roadster/roadster-men-black-cotton-pure-cotton-t-shirt/1996777/buy
+[PRODUCT] https://www.myntra.com/tshirts/louis-philippe-jeans/louis-philippe-jeans-men-black-graphic-printed-pure-cotton-slim-fit-casual-t-shirt/16878774/buy
+[PRODUCT] https://www.myntra.com/tshirts/hrx-by-hrithik-roshan/hrx-by-hrithik-roshan-men-olive-green-solid-bio-wash-running-tshirt/11999496/buy
+[PRODUCT] https://www.myntra.com/tshirts/roadster/roadster-men-olive-green--cream-coloured-striped-polo-collar-t-shirt/6797776/buy
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/dupattas-stoles-ethnic-wear-for-women
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/home/sale/view-all.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1229365006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1229365006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1253636002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1253636002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0777351001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0777351001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1251071001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1251071001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1208179017.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1208179017.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1164686005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1164686005.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1278470001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1278470001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1220061002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1220061002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1152378024.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1152378024.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1209312002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1209312002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1220062002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1220062002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264766003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264766003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1230979008.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1230979008.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1219441007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1219441007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264766004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264766004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264766002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264766002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1152378023.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1152378023.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1235402002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1235402002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1208179016.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1208179016.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1219441001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1219441001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264793003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264793003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264771003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264771003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0846126002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0846126002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264771002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264771002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1261562003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1261562003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265211001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1265211001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1219441004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1219441004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1235424004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1235424004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1168936006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1168936006.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264809001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1264809001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0861480004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0861480004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1043565016.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1043565016.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281437002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281437002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0902500001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.0902500001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1166977001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1166977001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281437003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1281437003.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-casual-shirts
+[PRODUCT] https://www.myntra.com/shirts/wrogn/wrogn-men-blue--grey-checked-casual-shirt/1758570/buy
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/trending-now-for-plus-size-women
+[PRODUCT] https://www.nykaafashion.com/rishi-vibhuti-beige-embellished-sarees/p/328528
+[PRODUCT] https://www.nykaafashion.com/daniel-wellington-white-petite-melrose-rose-gold-28mm-watch/p/512418
+[PRODUCT] https://www.nykaafashion.com/suhani-pittie-gold-toned-knot-chain-maangtika-with-emerald-pearl-medallion/p/1018715
+[PRODUCT] https://www.nykaafashion.com/teejh-by-joker-and-witch-silver-antique-shreya-white-floral-pearl-chand-bali-earrings/p/1010324
+[PRODUCT] https://www.nykaafashion.com/gulaal-grey-birch-top-pant-set-of-2/p/268495
+[PRODUCT] https://www.nykaafashion.com/vero-moda-blue-blazer/p/691656
+[PRODUCT] https://www.nykaafashion.com/sole-house-nude-monocgrome-kolapuri/p/274225
+[PRODUCT] https://www.nykaafashion.com/miraggio-brown-briella-tote-bag/p/483641
+[PRODUCT] https://www.nykaafashion.com/only-blue-puff-sleeves-denim-jacket/p/1043582
+[PRODUCT] https://www.nykaafashion.com/gap-green-solid-bomber-jacket/p/709452
+[PRODUCT] https://www.nykaafashion.com/rishi-vibhuti-beige-embellished-sarees/p/328528
+[PRODUCT] https://www.nykaafashion.com/daniel-wellington-white-petite-melrose-rose-gold-28mm-watch/p/512418
+[PRODUCT] https://www.nykaafashion.com/suhani-pittie-gold-toned-knot-chain-maangtika-with-emerald-pearl-medallion/p/1018715
+[PRODUCT] https://www.nykaafashion.com/teejh-by-joker-and-witch-silver-antique-shreya-white-floral-pearl-chand-bali-earrings/p/1010324
+[PRODUCT] https://www.nykaafashion.com/gulaal-grey-birch-top-pant-set-of-2/p/268495
+[PRODUCT] https://www.nykaafashion.com/vero-moda-blue-blazer/p/691656
+[PRODUCT] https://www.nykaafashion.com/sole-house-nude-monocgrome-kolapuri/p/274225
+[PRODUCT] https://www.nykaafashion.com/miraggio-brown-briella-tote-bag/p/483641
+[PRODUCT] https://www.nykaafashion.com/only-blue-puff-sleeves-denim-jacket/p/1043582
+[PRODUCT] https://www.nykaafashion.com/gap-green-solid-bomber-jacket/p/709452
+[PRODUCT] https://www.nykaafashion.com/rishi-vibhuti-beige-embellished-sarees/p/328528
+[PRODUCT] https://www.nykaafashion.com/daniel-wellington-white-petite-melrose-rose-gold-28mm-watch/p/512418
+[PRODUCT] https://www.nykaafashion.com/suhani-pittie-gold-toned-knot-chain-maangtika-with-emerald-pearl-medallion/p/1018715
+[PRODUCT] https://www.nykaafashion.com/teejh-by-joker-and-witch-silver-antique-shreya-white-floral-pearl-chand-bali-earrings/p/1010324
+[PRODUCT] https://www.nykaafashion.com/gulaal-grey-birch-top-pant-set-of-2/p/268495
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/women/new-arrivals/view-all.html?productId=1298081001
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293967007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293967007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275861004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275861004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288187001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288187001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1287253001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1287253001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295403003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295403003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288483001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288483001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273506003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273506003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295303003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295303003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293981002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293981002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288465001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288465001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1285387001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1285387001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1298079001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1298079001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1285388001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1285388001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1298080001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1298080001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1287255001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1287255001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293143001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293143001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293199001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293199001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1302903001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1302903001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289181002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289181002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296482001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296482001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282428001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282428001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296052002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296052002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293151001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293151001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1291546001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1291546001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293215002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293215002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1283782002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1283782002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277385003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277385003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293761002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293761002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293989001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293989001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1291044001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1291044001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288105001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288105001.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-formal-shirts
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/spring-summer-2025/c/74296?transaction_id=7a81f5cf62640f28835859b0aaf4db01
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/new-in-for-plus-size-women
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-sweatshirts
+[PRODUCT] https://www.myntra.com/sweatshirts/bossini/bossini-men-blue--white-striped-cotton-pullover-sweatshirt/20470648/buy
+[PRODUCT] https://www.myntra.com/sweatshirts/allen-solly/allen-solly-men-blue-solid-mock-collar-half-zipper-sweatshirt/20359622/buy
+[PRODUCT] https://www.myntra.com/sweatshirts/styli/styli-men-white-printed-pure-cotton-sweatshirt/20740842/buy
+[PRODUCT] https://www.myntra.com/sweatshirts/hm/hm-men-grey-relaxed-fit-sweatshirt/15611412/buy
+[PRODUCT] https://www.myntra.com/sweatshirts/the-souled-store/the-souled-store-men-cotton-high-neck-solid-sweatshirt/20520664/buy
+[PRODUCT] https://www.myntra.com/sweatshirts/hrx-by-hrithik-roshan/hrx-by-hrithik-roshan-men-maroon-solid-hooded-sweatshirt/11846948/buy
+[PRODUCT] https://www.myntra.com/sweatshirts/nike/nike-men-black--df-hdie-fz-fl-hooded-sweatshirt/15023148/buy
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/women/seasonal-trending/beachwear.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293143001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293143001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293143001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293143001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293143001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293143001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1302903001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1302903001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1302903001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1302903001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1302903001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293199001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293199001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293199001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293199001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293199001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293199001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289181002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289181002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289181002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289181002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289181002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289181002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296482001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296482001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296482001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296482001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296482001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296482001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282428001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282428001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282428001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282428001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282428001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282428001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282428001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296052002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296052002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296052002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296052002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296052002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296052002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296052002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293151001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293151001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293151001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293151001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293151001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293151001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293151001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290237002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290237002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290237002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290237002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290237002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290944001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290944001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290944001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290897001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290897001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1290897001.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-sweaters
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/view-all-plus-size-for-women
+[PRODUCT] https://www.nykaafashion.com/tikhi-imli-green-colored-hand-printed-chiffon-saree-with-unstitched/p/14255734
+[PRODUCT] https://www.nykaafashion.com/onewe-india-pista-chanderi-floral-embroidered-kurta-with-pant-and-dupatta-set-of-3/p/16976939
+[PRODUCT] https://www.nykaafashion.com/cider-black-square-neck-floral-ruched-maxi-dress/p/17210200
+[PRODUCT] https://www.nykaafashion.com/chkokko-double-layered-shorts-for-women-maroon/p/12571129
+[PRODUCT] https://www.nykaafashion.com/mish-one-shoulder-work-kimono-style-dress/p/13271761
+[PRODUCT] https://www.nykaafashion.com/sew-baby-pink-sequence-embroidered-kurta-with-palazzo-and-dupatta-set-of-3/p/18366662
+[PRODUCT] https://www.nykaafashion.com/ordinaree-loveseer-long-dress/p/17342623
+[PRODUCT] https://www.nykaafashion.com/fablestreet-olive-folded-sleeve-top/p/446885
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/dresses-for-plus-size-women
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-jackets
+[PRODUCT] https://www.myntra.com/jackets/high-star/high-star-men-black-solid-denim-jacket/11275832/buy
+[PRODUCT] https://www.myntra.com/jackets/roadster/roadster-men-blue-washed-denim-jacket/12288596/buy
+[PRODUCT] https://www.myntra.com/jackets/herenow/herenow-men-black-typography-embossed-print-distressed-denim-jacket/14275344/buy
+[PRODUCT] https://www.myntra.com/jackets/roadster/roadster-women-blue-washed-cropped-denim-trucker-jacket/12279300/buy
+[PRODUCT] https://www.myntra.com/jackets/roadster/roadster-men-coffee-brown-solid-denim-jacket/12288772/buy
+[PRODUCT] https://www.myntra.com/jackets/hubberholme/hubberholme-men-black-solid-denim-jacket/12834804/buy
+[PRODUCT] https://www.myntra.com/jackets/roadster/roadster-men-blue-solid-denim-jacket/10617886/buy
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/women/new-arrivals/view-all.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293967007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293967007.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275861004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1275861004.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288187001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288187001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1287253001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1287253001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295403003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295403003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288483001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288483001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273506003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1273506003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295303003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295303003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293981002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293981002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288465001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288465001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1285387001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1285387001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1298079001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1298079001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1285388001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1285388001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1298080001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1298080001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1287255001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1287255001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296059001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293143001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293143001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293199001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293199001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1295555003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1302903001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1302903001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289181002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1289181002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296482001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296482001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282428001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1282428001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296061002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296052002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1296052002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293151001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293151001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1291546001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1291546001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293215002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293215002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1283782002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1283782002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277385003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1277385003.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293761002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293761002.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293989001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1293989001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1291044001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1291044001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288105001.html
+[PRODUCT] https://www2.hm.com/en_in/productpage.1288105001.html
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/indianwear?pageType=nf-indianwear&transaction_id=4806dad5b5721964ecb8d00e6fe05a0c
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/life.html
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/shirts-tops-1
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-blazers
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/customer-service.html
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/jackets-for-plus-size-women
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-suits
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/login
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/t-shirts-for-plus-size-women
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/rain-jacket
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/westernwear?pageType=nf-westernwear&transaction_id=ea72f53788ef0085e0e120af3557c5b2
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/customer-service/shopping-at-hm/store-locator.html
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/jeans-for-plus-size-women
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-ethnic-wear
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/trousers-for-plus-size-women
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/customer-service/legal-and-privacy.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-kurtas
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/customer-service/contact.html
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/kurtas-for-plus-size-women
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/sherwani
+[PRODUCT] https://www.myntra.com/sherwani/sojanya/sojanya-men-black--mustard-self-design-sherwani-set/11718726/buy
+[PRODUCT] https://www.myntra.com/sherwani/benstoke/-benstoke-men-brown--blue-printed-sherwani-set/18711412/buy
+[PRODUCT] https://www.myntra.com/sherwani/manyavar/manyavar-men-beige-floral-embroidered-sherwani-and-churidar-set/15227312/buy
+[PRODUCT] https://www.myntra.com/sherwani/tasva/tasva-men-maroon-embroidered-sherwani/20420896/buy
+[PRODUCT] https://www.myntra.com/sherwani/manu/manu-men-brown--golden-woven-design-silk-blend-sherwani-set/19338910/buy
+[PRODUCT] https://www.myntra.com/sherwani/kisah/kisah-men-maroon--beige-solid-sherwani-set/13066946/buy
+[PRODUCT] https://www.myntra.com/sherwani/hangup/hangup-men-white--maroon-printed-sherwani-set/19905348/buy
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/kurtis-for-plus-size-women
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/men?pageType=nf-men&pageVariation=1&transaction_id=33a1003e1d64dc30772b1b7e144f3077
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/customer-service/legal-and-privacy/secure-shopping.html
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/ethnic-wear-plus-size-palazzos-and-pants
+[Cheerio][DEPTH 1] Visiting: https://www2.hm.com/en_in/customer-service/legal-and-privacy/cookie-notice.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/nehru-jackets
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/men/new-arrivals/view-all.html?productId=1290111001
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/new-in-womens-footwear
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/dhoti
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/productpage.1290111001.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-bottomwear
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/footwear-for-women
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/footwear?pageType=nf-footwear&transaction_id=d4c2dbd0b96cbdf4b5ddcad55e642f21
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/men/seasonal-trending/street-trend.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-jeans
+[PRODUCT] https://www.myntra.com/jeans/dressberry/dressberry-women-blue-pure-cotton-flared-high-rise-stretchable-jeans/15056158/buy
+[PRODUCT] https://www.myntra.com/jeans/tokyo-talkies/tokyo-talkies-women-white-flared-high-rise-clean-look-jeans/13689970/buy
+[PRODUCT] https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+[PRODUCT] https://www.myntra.com/jeans/chemistry/chemistry-women-blue-regular-fit-mid-rise-clean-look-stretchable-cropped-jeans/13526690/buy
+[PRODUCT] https://www.myntra.com/jeans/mango/mango-women-blue-noa-skinny-fit-mid-rise-clean-look-stretchable-jeans/15265896/buy
+[PRODUCT] https://www.myntra.com/jeans/roadster/roadster-women-navy-blue-skinny-fit-high-rise-jeans/11531806/buy
+[PRODUCT] https://www.myntra.com/jeans/kotty/kotty-women-black-jean-straight-fit-high-rise-stretchable-jeans/19259884/buy
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/flat-sandals-for-women
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/comfort-sandals-for-women
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-casual-trousers
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/productpage.1272338003.html
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/heeled-sandals-for-women
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-formal-trousers
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/lingerie?pageType=nf-lingerie&transaction_id=f3db0ea3ec132905ba316a4ab43e4374
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/flat-shoes-for-women
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/mens-shorts
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/woman-heeled-shoes
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/men/new-arrivals/view-all.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-trackpants
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/sneakers-for-women
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/productpage.1275471005.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-innerwear
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/productpage.1028144001.html
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/flip-flops-for-women
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/jewellery?pageType=nf-jewellery&transaction_id=44d19d4bfdd6537700cde771cacbad2f
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/baby/sale/baby.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-briefs-and-trunks
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/bags
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/kids/sale/2-8.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-boxers
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/accessories
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/kids/sale/9-14.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-innerwear-vests
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/bags?pageType=nf-bags&transaction_id=eb462b7e32dd691003b8c64a08d1a57d
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/perfumes-and-fragrances-for-women
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-nightwear
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/productpage.1229365006.html
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/woman-beauty
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-thermals
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/productpage.1293967007.html
+[PRODUCT] https://www.nykaafashion.com/lavie-red-solid-plain-handbags/p/4551416?transaction_id=a6c9b734d5a381d6428f2f0db3c63c07
+[PRODUCT] https://www.nykaafashion.com/caprese-tiana-backpack-large-red/p/9919970?transaction_id=6c94c4838b661c7d6100d303ce080d50
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/plus-size-for-men
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/kids?pageType=nf-kids&pageVariation=1&transaction_id=4966f9462f14c9c157674c5498825ba7
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/co-ord-set
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/productpage.1296059001.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-footwear
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/view-all-lingerie
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-casual-shoes
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/lingerie-swimwear
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/productpage.1296059003.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-sports-shoes
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/home?pageType=nf-homepage-home&pageVariation=1&transaction_id=d3f5926cfd05c0b36c0067af8d84fef1
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/loungewear-and-sleepwear
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/life/culture/inside-h-m/hm-studio-holiday-capsule.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-formal-shoes
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/life/culture/inside-h-m.html
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/trending-now-man
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-sneakers
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/pages/men-clp
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/customer-service/shopping-at-hm.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-sandals
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/lp/athleisure?pageType=nf-athleisure&transaction_id=918ad90d3aa787784047f0ef053ca44e
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/member/info.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-flip-flops
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/men-new-in
+[Cheerio][DEPTH 2] Visiting: https://www2.hm.com/en_in/customer-service/legal-and-privacy/privacy-link.html
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-socks
+[RESULT] Found 672 product URLs
+[SAVED] Product URLs saved to ./results_all/hm.com_1.json
+
+========== Starting crawl for https://www.ajio.com ==========
+[PRODUCT] https://www.nykaafashion.com/under-armour-ua-infinite-elite-green-running-shoes/p/18589557?transaction_id=59621efffdb39d9de5d6cb225a092551
+[Playwright][DEPTH 0] Visiting: https://www.ajio.com
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-personal-care
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/casual-shirts-for-men
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/women/indianwear/salwar-suits-and-sets/c/69?f=salwar_suits_sets_type_filter%3D1200_&transaction_id=2e2dad517ef0ffdc2e458dec78dcb40b
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-sunglasses
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/t-shirts-for-men
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/mens-watches
+[PRODUCT] https://www.myntra.com/smart-watches/fire-boltt/fire-boltt-talk-pro-smart-watch---black-38bswaay-1/18855428/buy
+[PRODUCT] https://www.myntra.com/smart-watches/fossil/fossil-garrett-hr-black-smartwatch-ftw4038/15284120/buy
+[PRODUCT] https://www.myntra.com/smart-watches/noise/noise-black-colorfit-icon-buzz-bluetooth-calling-smart-watch-with-voice-assistance/16934964/buy
+[PRODUCT] https://www.myntra.com/watches/fastrack/fastrack-unisex-black-dial--silicon-straps-analogue-watch-38024pp25/15471534/buy
+[PRODUCT] https://www.myntra.com/watches/casio/casio-men-vintage-silver-dial-men-vintage-watch-a-158wa-1q---d011/251023/buy
+[PRODUCT] https://www.myntra.com/watches/roadster/the-roadster-lifestyle-co-men-black-analogue-watch-mfb-pn-wth-6292g/9460241/buy
+[PRODUCT] https://www.myntra.com/smart-watches/boat/boat-black-wave-connect-m-with-bluetooth-calling-smartwatch/19464136/buy
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/polo-t-shirts-for-men
+[PRODUCT] https://www.nykaafashion.com/calmna-lilac-lehriya-kurta-set-of-2/p/12393714
+[PRODUCT] https://www.nykaafashion.com/autumnlane-jasmine-black-applique-set-of-2/p/6456577
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-sports-wear
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/women/indianwear/co-ord-sets/c/57387?f=salwar_suits_sets_type_filter%3D24697_%3Boccasion_filter%3D1155_175_&transaction_id=0809a7909149d4b62a145307dd69713f
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/sweatshirts-for-men
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-sports-sandals
+[Playwright][DEPTH 1] Visiting: https://www.ajio.com/selfcare
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/men-jeans
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-sports-wear-tshirts
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-trackpants-shorts
+[PRODUCT] https://www.nykaafashion.com/rain-rainbow-women-multi-floral-printed-pure-cotton-tunic-with-trousers/p/14861871
+[PRODUCT] https://www.nykaafashion.com/janasya-women-yellow-dobby-chiffon-solid-co-ord-set-of-2/p/14648814
+[PRODUCT] https://www.nykaafashion.com/mojilaa-women-grey-linen-floral-print-causal-co-ord-set-of-2/p/15485463
+[PRODUCT] https://www.nykaafashion.com/libas-womens-purple-floral-printed-co-ord-set-of-2/p/16459905
+[PRODUCT] https://www.nykaafashion.com/label-s4u-blue-floral-printed-sheer-co-ord-set-of-2/p/19877346
+[PRODUCT] https://www.nykaafashion.com/gahan-polyester-abstract-printed-shirt-collar-cream-co-ord-set-of-2/p/18523759
+[PRODUCT] https://www.nykaafashion.com/autumnlane-modine-angel-top-with-pant-co-ord-set-of-2/p/13191316
+[PRODUCT] https://www.nykaafashion.com/stylum-womens-printed-rayon-co-ord-set-of-2/p/12923988
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/casual-trousers-chinos-for-men
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/women/westernwear/bottoms-pants-and-trousers/c/7?f=pants_jeans_shorts_type_filter%3D1856_3069662_3069663_&transaction_id=42e6947625c5012250efc3f0538b8234
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-tracksuits
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/blazers-and-jackets-for-men
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-sports-jackets
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/formal-shirts-for-men
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-sports-accessories
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/formal-trousers-for-men
+[Playwright][DEPTH 1] Visiting: https://www.ajio.com/
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-swimwear
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/women/bags/sling-and-cross-bags/c/91?f=occasion_filter%3D1155_174_175_&transaction_id=1ede185f2245b1427d7bc7c3d9533dad
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/joggers-shorts-for-men
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/gadgets
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/loungewear-sleepwear-for-men
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/smart-wearables
+[PRODUCT] https://www.nykaafashion.com/dailyobjects-midnight-blue-scout-crossbody-bag/p/1755384
+[PRODUCT] https://www.nykaafashion.com/see-by-chloe-joan-mini-crossbody/p/10126596
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/mens-underwear
+[Playwright][DEPTH 1] Visiting: https://www.ajio.com/shop/men
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/smart-wearables?f=Categories%3AFitness%20Bands
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/women/westernwear/dresses/c/5?f=pattern_filter%3D980_&transaction_id=8df2e00f2584cc349afb4dc575652dcd
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/ethnic-wear-for-man
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/headphones
+[PRODUCT] https://www.myntra.com/headphones/oneplus/oneplus-bullets-z2-bluetooth-wireless-neckband-with-bombastic-bass--10-mins-charge/19957608/buy
+[PRODUCT] https://www.myntra.com/headphones/boat/boat-airdopes-white-163-m-with-asap-charge-in-the-ear-bluetooth-headset-/19597742/buy
+[PRODUCT] https://www.myntra.com/headphones/oneplus/oneplus-bullets-z2-bluetooth-wireless-neckband-with-bombastic-bass--10-mins-charge/19957602/buy
+[PRODUCT] https://www.myntra.com/headphones/boat/boat--black-airdopes-131-m-earbuds/11888942/buy
+[PRODUCT] https://www.myntra.com/headphones/realme/realme-black--yellow-buds-wireless-2s-with-dual-device-switching--type-c-fast-charge-bluetooth-headset--in-the-ear/19199370/buy
+[PRODUCT] https://www.myntra.com/headphones/oneplus/oneplus-nord-buds-tws-in-ear-earbuds-with-124mm-titanium-drivers--fast-charging/19957610/buy
+[PRODUCT] https://www.myntra.com/headphones/boat/boat-airdopes-121v2-m-tws-earbuds-with-14-hours-playback-led-indicator---active-black/18177188/buy
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/new-in-mens-footwear
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/speakers
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/shoes-for-men
+[PRODUCT] https://www.nykaafashion.com/magre-blue-satin-shirt-dress/p/10091988
+[PRODUCT] https://www.nykaafashion.com/ordinaree-sassy-goddess-lond-dress/p/11378328
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-accessories
+[Playwright][DEPTH 1] Visiting: https://www.ajio.com/s/clothing-4461-74581
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/women/lingerie/sleepwear/c/3986?f=material_filter%3D161_&transaction_id=791a1b28d9610bd855057faa8c28539b
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/casual-shoes-for-men
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-wallets
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/formal-shoes-for-men
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-belts
+[PRODUCT] https://www.myntra.com/belts/tommy-hilfiger/tommy-hilfiger-men-black-genuine-leather-solid-belt/6551435/buy
+[PRODUCT] https://www.myntra.com/belts/louis-philippe/louis-philippe-men-black--brown-reversible-leather-belt/12661522/buy
+[PRODUCT] https://www.myntra.com/belts/kaezri/kaezri-men-brown--black-textured-leather-formal-belt/17893580/buy
+[PRODUCT] https://www.myntra.com/belts/van-heusen/van-heusen-men-brown-leather-formal-belt/20372730/buy
+[PRODUCT] https://www.myntra.com/belts/elite-crafts/elite-crafts-men-leather-formal-belt/21030416/buy
+[PRODUCT] https://www.myntra.com/belts/woodland/woodland-men-black-solid-leather-belt/19520782/buy
+[PRODUCT] https://www.myntra.com/belts/levis/levis-men-black-leather-belt/17769554/buy
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/sneakers-for-men-online
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/perfumes
+[PRODUCT] https://www.myntra.com/perfume-and-body-mist/beardo/beardo-men-whisky-smoke-eau-de-parfum---100-ml/14536302/buy
+[PRODUCT] https://www.myntra.com/perfume-and-body-mist/calvin-klein/calvin-klein-unisex-one-eau-de-toilette-200-ml/1344092/buy
+[PRODUCT] https://www.myntra.com/perfume-and-body-mist/wild-stone/wild-stone-men-ultra-sensual-eau-de-parfum-100-ml/6943028/buy
+[PRODUCT] https://www.myntra.com/perfume-and-body-mist/jaguar/jaguar-men-classic-eau-de-toilette-100-ml/1677389/buy
+[PRODUCT] https://www.myntra.com/perfume-and-body-mist/envy/envy-men-natural-gas-free-long-lasting-body-spray---70ml/18741060/buy
+[PRODUCT] https://www.myntra.com/perfume-and-body-mist/carlton-london/carlton-london-women-limited-edition-blush-eau-de-parfum--100-ml/15455762/buy
+[PRODUCT] https://www.myntra.com/perfume-and-body-mist/bella-vita-organic/bella-vita-organic-luxury-set-of-4-perfume---20ml-each/17857398/buy
+[PRODUCT] https://www.ajio.com/fashion-and-youth-men-regular-fit-polo-t-shirt/p/701565603_navy
+[PRODUCT] https://www.ajio.com/fashion-and-youth-men-regular-fit-polo-t-shirt/p/701565603_coffee
+[PRODUCT] https://www.ajio.com/the-bear-house-slim-fit-shirt-with-patch-pocket/p/701403587_purple
+[PRODUCT] https://www.ajio.com/buda-jeans-co-men-relaxed-fit-cargo-pants-with-insert-pockets/p/701572343_grey
+[PRODUCT] https://www.ajio.com/the-bear-house--men-spread-collar-slim-fit-shirt/p/701407064_mustard
+[PRODUCT] https://www.ajio.com/yousta-men-regular-fit-zip-front-hooded-windbreaker/p/443068555_black
+[PRODUCT] https://www.ajio.com/netplay-men-tapered-fit-flat-front-chinos/p/443064368_ltgrey
+[PRODUCT] https://www.ajio.com/fashion-and-youth-men-regular-fit-polo-t-shirt/p/701565603_white
+[PRODUCT] https://www.ajio.com/yousta-men-patterned-relaxed-fit-shirt/p/443065650_grey
+[PRODUCT] https://www.ajio.com/u-s-polo-assn-men-regular-fit-shirt/p/469738385_black
+[PRODUCT] https://www.ajio.com/fashion-and-youth-men-regular-fit-polo-t-shirt/p/701565641_coffee
+[PRODUCT] https://www.ajio.com/yousta-men-colourblock-regular-fit-zip-front-hooded-windbreaker/p/443068580_medgrey
+[PRODUCT] https://www.ajio.com/puma-mens-striped-logo-graphic-slim-fit-t-shirt/p/700714928_black
+[PRODUCT] https://www.ajio.com/performax-men-fastdry-active-panelled-track-pants/p/441128505_jetblack
+[PRODUCT] https://www.ajio.com/yousta-men-colourblock-regular-fit-zip-front-hooded-windbreaker/p/443068557_navy
+[PRODUCT] https://www.ajio.com/teamspirit-regular-fit-heathered-polo-t-shirt-with-ribbed-hem/p/441139601_olivegreen
+[PRODUCT] https://www.ajio.com/teamspirit-men-regular-fit-track-pants/p/443061298_jetblack
+[PRODUCT] https://www.ajio.com/yousta-men-relaxed-fit-cotton-shirt-with-flap-pockets/p/443064608_olive
+[PRODUCT] https://www.ajio.com/kotty-men-low-rise-relaxed-fit-jeans---/p/701329058_blue
+[PRODUCT] https://www.ajio.com/the-bear-house-checked-slim-fit-shirt-with-patch-pocket/p/700129781_green
+[PRODUCT] https://www.ajio.com/yousta-men-regular-fit-zip-front-hooded-windbreaker/p/443068556_white
+[PRODUCT] https://www.ajio.com/teamspirit-men-track-pants-with-insert-pockets/p/441139592_ltgrey
+[PRODUCT] https://www.ajio.com/buda-jeans-co-men-relaxed-fit-cargo-pants-with-insert-pockets/p/701572343_khaki
+[PRODUCT] https://www.ajio.com/the-bear-house-slim-fit-shirt-with-patch-pocket/p/465007658_blue
+[PRODUCT] https://www.ajio.com/paralians-men-straight-fit-cargo-pants-with-insert-pockets/p/467016973_black
+[PRODUCT] https://www.ajio.com/fashion-and-youth-men-regular-fit-polo-t-shirt/p/701565641_maroon
+[PRODUCT] https://www.ajio.com/the-bear-house-men-solid-slim-fit-shirt/p/466553608_cream
+[PRODUCT] https://www.ajio.com/nobero-men-oversized-cargo-joggers/p/467025063_black
+[PRODUCT] https://www.ajio.com/the-bear-house-striped-patch-pocket-shirt/p/465405611_multi
+[PRODUCT] https://www.ajio.com/the-bear-house-men-cotton-slim-fit-casual-shirt/p/701407813_beige
+[PRODUCT] https://www.ajio.com/buda-jeans-co-men-regular-fit-bomber-jacket/p/701573210_green
+[PRODUCT] https://www.ajio.com/bombay-begum-men-regular-fit-shirt-with-spread-collar/p/701112842_brown
+[PRODUCT] https://www.ajio.com/the-bear-house-cotton-relaxed-fit-shirt/p/701438547_black
+[PRODUCT] https://www.ajio.com/the-bear-house-checked-slim-fit-shirt-with-patch-pocket/p/700102754_beige
+[PRODUCT] https://www.ajio.com/the-bear-house-slim-fit-shirt-with-patch-pocket/p/701403619_grey
+[PRODUCT] https://www.ajio.com/the-bear-house-checked-shirt-with-patch-pocket/p/465616099_navy
+[PRODUCT] https://www.ajio.com/the-bear-house-checks-relaxed-fit-shirt/p/467159622_grey
+[PRODUCT] https://www.ajio.com/performax-men-joggers-with-insert-pockets/p/441147738_maroon
+[PRODUCT] https://www.ajio.com/the-bear-house--men-spread-collar-slim-fit-shirt/p/701407069_green
+[PRODUCT] https://www.ajio.com/the-bear-house-striped-slim-fit-shirt-with-button-down-collar/p/700129808_blue
+[PRODUCT] https://www.ajio.com/john-players-jeans-men-slim-fit-cargos/p/443068081_ltolive
+[PRODUCT] https://www.ajio.com/the-bear-house-stripes-full-sleeves-shirt/p/464967405_multi
+[PRODUCT] https://www.ajio.com/the-bear-house-solid-sweatshirt/p/466690359_black
+[PRODUCT] https://www.ajio.com/the-bear-house-cotton-slim-fit-shirt/p/701373905_pink
+[PRODUCT] https://www.ajio.com/the-bear-house-striped-slim-fit-shirt-with-patch-pocket/p/464868403_multi
+[PRODUCT] https://www.ajio.com/the-bear-house-solid-sweatshirt/p/466690359_black
+[PRODUCT] https://www.ajio.com/the-bear-house-cotton-slim-fit-shirt/p/701373905_pink
+[PRODUCT] https://www.ajio.com/yu-by-pantaloons-men-regular-fit-polo-t-shirt/p/701451343_green
+[PRODUCT] https://www.ajio.com/teamspirit-men-regular-fit-crew-neck-t-shirt/p/443061825_teal
+[PRODUCT] https://www.ajio.com/mameru-men-classic-regular-fit-shirt/p/701543268_cream
+[PRODUCT] https://www.ajio.com/the-bear-house-men-checked-slim-fit-shirt/p/464007586_maroon
+[PRODUCT] https://www.ajio.com/teamspirit-regular-fit-polo-t-shirt-with-brand-print/p/441148592_maroon
+[PRODUCT] https://www.ajio.com/byford-by-pantaloons-men-slim-fit-t-shirt-with-short-sleeves/p/701632340_blue
+[PRODUCT] https://www.ajio.com/puma-mens-cricket-woven-pants/p/701058396_blue
+[PRODUCT] https://www.ajio.com/puma-mens-foil-graphic-t-shirt/p/700754950_black
+[PRODUCT] https://www.ajio.com/yousta-men-regular-fit-zip-front-hooded-windbreaker/p/443068555_black
+[PRODUCT] https://www.ajio.com/bombay-begum-men-regular-fit-shirt-with-spread-collar/p/701567363_coffee
+[PRODUCT] https://www.ajio.com/buda-jeans-co-men-regular-fit-bomber-jacket/p/701573210_wine
+[PRODUCT] https://www.ajio.com/the-bear-house-checked-shirt-with-patch-pocket/p/465616099_navy
+[PRODUCT] https://www.ajio.com/teamspirit-regular-fit-brand-print-polo-t-shirt/p/441139601_darkgrey
+[PRODUCT] https://www.ajio.com/the-bear-house-men-striped-regular-fit-polo-t-shirt/p/467162508_green
+[PRODUCT] https://www.ajio.com/the-bear-house-men-textured-slim-fit-shirt-with-patch-pocket/p/463292672_purple
+[PRODUCT] https://www.ajio.com/netplay-men-tapered-fit-flat-front-chinos/p/443061627_navy
+[PRODUCT] https://www.ajio.com/red-tape-men-quilted-regular-fit-puffer-jacket/p/700384757_olive
+[PRODUCT] https://www.ajio.com/the-bear-house-heathered-slim-fit-shirt-with-patch-pocket/p/464879970_blue
+[PRODUCT] https://www.ajio.com/performax-men-joggers-with-insert-pockets/p/441147738_jetblack
+[PRODUCT] https://www.ajio.com/neonomad-men-regular-fit-shirt-with-patch-pocket/p/701756129_maroon
+[PRODUCT] https://www.ajio.com/h-m-men-washed-loose-fit-jeans/p/700333294_blue
+[PRODUCT] https://www.ajio.com/teamspirit-men-regular-fit-track-pants/p/443061298_navy
+[PRODUCT] https://www.ajio.com/teamspirit-men-logo-print-joggers-with-drawstring-waist/p/441139590_khaki
+[PRODUCT] https://www.ajio.com/the-bear-house-slim-fit-shirt-with-patch-pocket/p/465322397_blue
+[PRODUCT] https://www.ajio.com/ftx-pack-of-3-men-track-pants/p/701579634_multi
+[PRODUCT] https://www.ajio.com/the-bear-house-striped-slim-fit-shirt-with-patch-pocket/p/700102780_blue
+[PRODUCT] https://www.ajio.com/h-m-men-straight-jeans/p/700967937_blue
+[PRODUCT] https://www.ajio.com/performax-regular-fit-fastdry-active-raglan-t-shirt/p/441135821_teal
+[PRODUCT] https://www.ajio.com/u-s-polo-assn-regular-fit-striped-polo-t-shirt/p/442103844_offwhite
+[PRODUCT] https://www.ajio.com/the-bear-house-men-checked-slim-fit-shirt/p/463528872_multi
+[PRODUCT] https://www.ajio.com/the-indian-garage-co-washed-slim-fit-jeans/p/469009835_blue
+[PRODUCT] https://www.ajio.com/peter-england-men-mid-wash-mid-rise-skinny-jeans/p/700833207_black
+[PRODUCT] https://www.ajio.com/people-by-pantaloons-men-striped-slim-fit-round-neck-t-shirt/p/701444338_green
+[PRODUCT] https://www.ajio.com/bombay-begum-men-regular-fit-shirt-with-spread-collar/p/701112842_grey
+[PRODUCT] https://www.ajio.com/haul-chic-men-slim-fit-trousers/p/701302364_grey
+[PRODUCT] https://www.ajio.com/byford-by-pantaloons-men-slim-fit-polo-t-shirt-with-contrast-taping/p/701622138_grey
+[PRODUCT] https://www.ajio.com/teamspirit-regular-fit-heathered-polo-t-shirt-with-ribbed-hem/p/441139601_navy
+[PRODUCT] https://www.ajio.com/performax-regular-fit-fastdry-active-crew-neck-t-shirt/p/441128501_jetblack
+[PRODUCT] https://www.ajio.com/the-bear-house-men-checks-slim-fit-shirt/p/463683909_multi
+[PRODUCT] https://www.ajio.com/teamspirit-men-regular-fit-polo-t-shirt/p/443057829_mauve
+[PRODUCT] https://www.ajio.com/the-indian-garage-co-men-striped-slim-fit-shirt-with-patch-pocket/p/460453610_white
+[PRODUCT] https://www.ajio.com/yousta-men-relaxed-fit-cotton-shirt-with-flap-pockets/p/443064608_olive
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/flip-flop-slides-clog-for-men
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/women/westernwear/c/3?f=category_filter%3D4497_%3Bneckline_type_filter%3D1134_%3Bdiscount_filter%3D0-%2A_&transaction_id=1585aa6b313a484ad0c0985c9e137746
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/trimmer
+[PRODUCT] https://www.myntra.com/trimmer/philips/philips-men-bt310115-series-3000-beard-trimmer---white/11915238/buy
+[PRODUCT] https://www.myntra.com/trimmer/bombay-shaving-company/bombay-shaving-company-men-bsc-cordless-beard-trimmer/15579796/buy
+[PRODUCT] https://www.myntra.com/trimmer/nova/nova-men-nht-1073-usb-cordless-trimmer---black--blue/9548055/buy
+[PRODUCT] https://www.myntra.com/trimmer/syska/syska-men-black-beard-pro-cordless-rechargeable-ht200u-runtime-40-min-trimmer/15277862/buy
+[PRODUCT] https://www.myntra.com/trimmer/vgr/vgr-men-gold-v-919-corded--cordless-professional-hair-trimmers/20348222/buy
+[PRODUCT] https://www.myntra.com/trimmer/bombay-shaving-company/bombay-shaving-company-women-6-in-1-sensitive-trimmer/15356850/buy
+[PRODUCT] https://www.myntra.com/trimmer/skmei/skmei-white-rechargeable-trimmer-1011/14948170/buy
+[Playwright][DEPTH 1] Visiting: https://www.ajio.com/s/footwear-4792-56591
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/boots-for-men
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/deodorant
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/perfumes-and-fragrances-for-men
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-belts-ties
+[PRODUCT] https://www.nykaafashion.com/cider-missed-your-call-cropped-blazer/p/8259336
+[PRODUCT] https://www.nykaafashion.com/twenty-dresses-by-nykaa-fashion-pink-floral-printed-v-neck-fit-and-flare-midi-wrap-dress/p/9478520
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/women/lingerie/bra/c/3947?f=category_filter%3D3948_&transaction_id=0085ce0d28902092edf61682a18f2f0e
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-accessory-gift-set
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/new-in-kids
+[PRODUCT] https://www.ajio.com/nike-downshifter-13-lace-up-running-shoes/p/469755765_grey
+[PRODUCT] https://www.ajio.com/red-tape-men-sports-shoes-with-mesh-upper/p/700971612_white
+[PRODUCT] https://www.ajio.com/red-tape-men-sports-shoes-with-mesh-upper/p/700750241_black
+[PRODUCT] https://www.ajio.com/red-tape-men-lace-up-sneakers-/p/700418967_navy
+[PRODUCT] https://www.ajio.com/red-tape-men-low-top-lace-up-sneakers/p/700710447_white
+[PRODUCT] https://www.ajio.com/asics-jolt-5-low-top-running-shoes/p/469718520_black
+[PRODUCT] https://www.ajio.com/red-tape-men-flip-flops-with-eva-upper/p/701509818_grey
+[PRODUCT] https://www.ajio.com/red-tape-men-lace-up-elegantly-rounded-front-lifestyle-sneakers/p/700301124_navy
+[PRODUCT] https://www.ajio.com/asics-lyte-low-top-outdoor-shoes/p/469718574_lightpink
+[PRODUCT] https://www.ajio.com/red-tape-men-slip-on-open-toe-slides-/p/701679611_black
+[PRODUCT] https://www.ajio.com/nike-downshifter-13-shoes/p/469581866_black
+[PRODUCT] https://www.ajio.com/asics-men-gel-quantum-90-outdoor-shoes/p/469718555_black
+[PRODUCT] https://www.ajio.com/red-tape-men-lace-up-elegantly-rounded-front-lifestyle-sneakers/p/700301096_white
+[PRODUCT] https://www.ajio.com/red-tape-walking-shoes-with-lace-fastening-/p/466669608_black
+[PRODUCT] https://www.ajio.com/vector-x-lace-up-football-sports-shoes-/p/465514390_blue
+[PRODUCT] https://www.ajio.com/red-tape-men-low-top-lace-up-sneakers/p/467113948_white
+[PRODUCT] https://www.ajio.com/red-tape-men-lace-up-sneakers-/p/700418947_blue
+[PRODUCT] https://www.ajio.com/asics-gt-1000-12-running-shoes/p/469718487_blackwhite
+[PRODUCT] https://www.ajio.com/puma-men-softride-premier-one8-res-running-shoes/p/469652304_black
+[PRODUCT] https://www.ajio.com/spykar-men-slip-on-flat-sliders/p/701581571_tan
+[PRODUCT] https://www.ajio.com/asics-jolt-5-low-top-running-shoes/p/469718523_indigo
+[PRODUCT] https://www.ajio.com/red-tape-men-regular-fit-lace-up-casual-shoes-/p/701679505_black
+[PRODUCT] https://www.ajio.com/red-tape-men-low-top-lace-up-walking-shoes-/p/467216497_black
+[PRODUCT] https://www.ajio.com/asics-men-gel-contend-9-lace-up-running-shoes/p/469718510_blue
+[PRODUCT] https://www.ajio.com/red-tape-men-sneakers-with-pu-upper/p/700765673_white
+[PRODUCT] https://www.ajio.com/red-tape-men-lace-up-soft-cushioned-insole-lifestyle-sneakers/p/700301133_blue
+[PRODUCT] https://www.ajio.com/asics-gel-task-4-low-top-badminton-shoes/p/469718550_white
+[PRODUCT] https://www.ajio.com/nike-downshifter-13-lace-up-running-shoes/p/469755766_orange
+[PRODUCT] https://www.ajio.com/red-tape-men-lace-up-soft-cushioned-insole-lifestyle-sneakers/p/700300944_blue
+[PRODUCT] https://www.ajio.com/asics-men-gel-contend-9-lace-up-running-shoes/p/469718509_white
+[PRODUCT] https://www.ajio.com/red-tape-men-lace-up-soft-cushioned-insole-lifestyle-sneakers/p/700301068_white
+[PRODUCT] https://www.ajio.com/red-tape-men-low-top-lace-up-sneakers/p/700710444_white
+[PRODUCT] https://www.ajio.com/asics-men-jog-100s-lace-up-outdoor-shoes/p/469718570_white
+[PRODUCT] https://www.ajio.com/asian-men-sneakers-with-synthetic-upper/p/701395275_beige
+[PRODUCT] https://www.ajio.com/red-tape-men-sports-shoes-with-mesh-upper/p/700985549_white
+[PRODUCT] https://www.ajio.com/off-limits-men-sports-shoes-with-mesh-upper/p/701306225_green
+[PRODUCT] https://www.ajio.com/red-tape-men-round-toe-lace-up-walking-shoes/p/700828975_black
+[PRODUCT] https://www.ajio.com/red-tape-men-sports-shoes-with-mesh-upper/p/701151521_white
+[PRODUCT] https://www.ajio.com/asics-lyte-low-top-outdoor-shoes/p/469718575_grey
+[PRODUCT] https://www.ajio.com/red-tape-men-lace-up-walking-shoes-/p/466669427_black
+[PRODUCT] https://www.ajio.com/red-tape-men-low-top-lace-up-walking-shoes-/p/467216065_white
+[PRODUCT] https://www.ajio.com/asics-fujispeed-3-running-shoes/p/469718497_orange
+[PRODUCT] https://www.ajio.com/red-tape-men-casual-shoes-/p/701074689_white
+[PRODUCT] https://www.ajio.com/red-tape-men-low-top-sneakers-with-lace-fastening/p/700353147_black
+[PRODUCT] https://www.ajio.com/asics-men-gel-courtmov-badminton-shoes/p/469643755_blue
+[PRODUCT] https://www.ajio.com/red-tape-men-sports-shoes-with-mesh-upper/p/700899105_white
+[PRODUCT] https://www.ajio.com/red-tape-men-panelled-lace-up-athleisure-shoes/p/700746402_black
+[PRODUCT] https://www.ajio.com/off-limits-men-sports-shoes-with-knitted-upper/p/701292116_olive
+[PRODUCT] https://www.ajio.com/red-tape-men-casual-shoes-with-pu-upper/p/701207547_white
+[PRODUCT] https://www.ajio.com/red-tape-round-toe-sports-shoes-with-lace-fastening-/p/467164722_black
+[PRODUCT] https://www.ajio.com/asics-men-gel-cover-cricket-shoes/p/469643765_white
+[PRODUCT] https://www.ajio.com/red-tape-men-flip-flops-with-eva-upper/p/701509804_blue
+[PRODUCT] https://www.ajio.com/red-tape-men-colourblock-low-top-lace-up-sneakers/p/700585680_multi
+[PRODUCT] https://www.ajio.com/asics-men-jog-100s-lace-up-outdoor-shoes/p/469718572_grey
+[PRODUCT] https://www.ajio.com/red-tape-men-low-top-running-shoes-with-lace-fastening/p/701224492_grey
+[PRODUCT] https://www.ajio.com/red-tape-men-round-toe-lace-up-sneakers-/p/700506906_black
+[PRODUCT] https://www.ajio.com/asics-jog-100s-lace-up-outdoor-shoes/p/469718571_grey
+[PRODUCT] https://www.ajio.com/puma-mens-skyrocket-lite-running-shoes/p/701157700_black
+[PRODUCT] https://www.ajio.com/red-tape-sneakers-with-pu-upper/p/700765642_white
+[PRODUCT] https://www.ajio.com/asics-gel-1130-lace-up-outdoor-shoes/p/469718566_cream
+[PRODUCT] https://www.ajio.com/red-tape-men-panelled-athleisure-shoes/p/700729814_offwhite
+[PRODUCT] https://www.ajio.com/red-tape-men-round-toe-running-sports-shoes/p/466829259_blue
+[PRODUCT] https://www.ajio.com/asics-gel-sonoma-8-low-top-running-shoes/p/469718505_black
+[PRODUCT] https://www.ajio.com/red-tape-men-regular-fit-lace-up-casual-shoes-/p/701679506_grey
+[PRODUCT] https://www.ajio.com/red-tape-men-sports-shoes-with-lace-fastening/p/700348043_green
+[PRODUCT] https://www.ajio.com/asics-tiger-runner-ii-low-top-outdoor-shoes/p/469718583_white
+[PRODUCT] https://www.ajio.com/red-tape-men-round-toe-lace-up-shoes/p/701088104_white
+[PRODUCT] https://www.ajio.com/aadi-men-ankle-length-chelsea-boots/p/701367516_black
+[PRODUCT] https://www.ajio.com/asics-men-hyper-speed-4-lace-up-running-shoes/p/469718495_blackwhite
+[PRODUCT] https://www.ajio.com/red-tape-men-sports-shoes-with-mesh-upper/p/701679640_black
+[PRODUCT] https://www.ajio.com/red-tape-men-sports-shoes-with-pu-upper/p/700822789_blue
+[PRODUCT] https://www.ajio.com/vector-x-round-toe-lace-up-football-shoes-/p/466482351_black
+[PRODUCT] https://www.ajio.com/aadi-men-chelsea-boots-with-slip-on-styling/p/701367516_brown
+[PRODUCT] https://www.ajio.com/red-tape-men-low-top-lace-up-walking-shoes-/p/467216494_grey
+[PRODUCT] https://www.ajio.com/asics-tiger-runner-ii-low-top-outdoor-shoes/p/469718582_blackwhite
+[PRODUCT] https://www.ajio.com/aadi-men-sports-shoes-with-mesh-upper/p/701392864_black
+[PRODUCT] https://www.ajio.com/red-tape-men-slip-on-chelsea-boots/p/701675618_black
+[PRODUCT] https://www.ajio.com/asics-men-gel-quantum-90-outdoor-shoes/p/469718556_white
+[PRODUCT] https://www.ajio.com/red-tape-men-lace-up-enhanced-durability-lifestyle-shoes/p/467250326_grey
+[PRODUCT] https://www.ajio.com/red-tape-men-regular-fit-lace-up-casual-shoes-/p/701679498_beige
+[PRODUCT] https://www.ajio.com/asics-gel-courtmov-shoes/p/469243288_white
+[PRODUCT] https://www.ajio.com/red-tape-men-low-top-walking-shoes/p/700710511_black
+[PRODUCT] https://www.ajio.com/red-tape-walking-shoes-with-lace-fastening-/p/466669610_white
+[PRODUCT] https://www.ajio.com/asics-fuji-lite-5-running-shoes/p/469718498_grey
+[PRODUCT] https://www.ajio.com/red-tape-men-low-top-walking-shoes/p/700710496_black
+[PRODUCT] https://www.ajio.com/red-tape-men-casual-shoes-with-pu-upper/p/701397158_green
+[PRODUCT] https://www.ajio.com/asics-men-court-reflex-tennis-shoes/p/469643750_white
+[PRODUCT] https://www.ajio.com/red-tape-men-round-toe-sports-shoes-with-lace-fastening/p/467251150_blue
+[PRODUCT] https://www.ajio.com/red-tape-men-s-sports-shoes-with-mesh-upper/p/701068636_white
+[PRODUCT] https://www.ajio.com/asics-men-jog-100s-lace-up-outdoor-shoes/p/469718569_white
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-caps
+[RESULT] Found 179 product URLs
+[SAVED] Product URLs saved to ./results_all/ajio.com_1.json
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/view-all-kids
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-gloves-mufflers-scarves
+[PRODUCT] https://www.nykaafashion.com/enamor-a042-side-support-shaper-bra-supima-cotton-non-padded-wirefree-orchid-melange/p/517390
+[PRODUCT] https://www.nykaafashion.com/clovia-padded-non-wired-polka-print-t-shirt-bra-nude/p/516498
+[PRODUCT] https://www.nykaafashion.com/jockey-black-non-wired-padded-bra/p/80766
+[PRODUCT] https://www.nykaafashion.com/zivame-lightly-padded-underwired-bra-aqua/p/529971
+[PRODUCT] https://www.nykaafashion.com/parfait-mariela-unlined-wire-bra-blue/p/141578
+[Playwright][DEPTH 1] Visiting: https://www.nykaafashion.com/women/westernwear/c/2?f=pattern_filter%3D118_119_%3Bcategory_filter%3D6826_7623_&transaction_id=3b87c0085a38a3d3822bc9320df2e24d
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/trending-now-kidswear
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/mobile-phone-cases
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/kids-girl-dresses-jumpsuits
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-jewellery
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/helmets
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/kids-girl-tops-jackets
+[PRODUCT] https://www.nykaafashion.com/cider-cotton-blend-polo-striped-short-sleeve-shirt/p/18708327
+[PRODUCT] https://www.nykaafashion.com/snitch-men-lining-maroon-shirt/p/18804825
+[PRODUCT] https://www.nykaafashion.com/pinacolada-women-s-mocha-brown-ribbed-striped-shirt/p/17559414
+[PRODUCT] https://www.nykaafashion.com/campus-sutra-charcoal-grey-and-off-white-multitrack-striped-oversized-shirt/p/18118438
+[PRODUCT] https://www.nykaafashion.com/the-indian-garage-co-men-slim-fit-checkered-full-sleeves-cutaway-collar-casual-shirt-navy-blue/p/19498755
+[PRODUCT] https://www.nykaafashion.com/the-bear-house-men-red-relaxed-fit-cotton-casual-shirt/p/18853471
+[PRODUCT] https://www.nykaafashion.com/snitch-brown-double-pocket-checks-shirt/p/19180949
+[PRODUCT] https://www.nykaafashion.com/the-souled-store-plaid-black-blue-and-red-men-relaxed-shirt/p/15313715
+[PRODUCT] https://www.nykaafashion.com/fablestreet-blue-satin-stripes-shirt/p/16355514
+[PRODUCT] https://www.nykaafashion.com/outzidr-women-navy-blue-checks-shirt/p/20194811
+[PRODUCT] https://www.nykaafashion.com/ad-by-arvind-tartan-check-pure-cotton-summer-shirt/p/16264786
+[PRODUCT] https://www.nykaafashion.com/pinacolada-women-s-prussian-blue-striped-boxy-shirt/p/17559401
+[PRODUCT] https://www.nykaafashion.com/the-indian-garage-co-men-regular-fit-checkered-full-sleeves-cutaway-collar-casual-shirt/p/19523988
+[PRODUCT] https://www.nykaafashion.com/campus-sutra-mens-emerald-green-buffalo-check-utility-shirt/p/18367991
+[PRODUCT] https://www.nykaafashion.com/the-bear-house-men-pink-checked-cotton-casual-shirt/p/8502043
+[PRODUCT] https://www.nykaafashion.com/u-s-polo-assn-men-s-pure-cotton-tailored-fit-dobby-shirt/p/20862524
+[PRODUCT] https://www.nykaafashion.com/the-indian-garage-co-men-slim-fit-checkered-full-sleeves-spread-collar-casual-shirt-beige/p/19498708
+[PRODUCT] https://www.nykaafashion.com/u-s-polo-assn-premium-cotton-checks-weave-shirt/p/14360221
+[PRODUCT] https://www.nykaafashion.com/sewtable-clothing-cotton-yarn-dye-gingham-shirt/p/17529340
+[PRODUCT] https://www.nykaafashion.com/snitch-brown-checks-relaxed-fit-shirt/p/19181314
+[PRODUCT] https://www.nykaafashion.com/the-indian-garage-co-men-stripes-half-sleeves-cuban-collar-shirt/p/19430982
+[PRODUCT] https://www.nykaafashion.com/crimsoune-club-women-black-striped-shirt/p/14272513
+[PRODUCT] https://www.nykaafashion.com/u-s-polo-assn-premium-cotton-tartan-shirt/p/14360251
+[PRODUCT] https://www.nykaafashion.com/u-s-polo-assn-denim-co-brown-checks-regular-fit-shirt/p/20079821
+[PRODUCT] https://www.nykaafashion.com/pinacolada-women-s-mocha-maroon-tartan-plaid-boxy-shirt/p/17559386
+[PRODUCT] https://www.nykaafashion.com/campus-sutra-women-aegean-blue-chalk-white-candy-striped-boyfriend-shirt/p/13775625
+[PRODUCT] https://www.nykaafashion.com/the-bear-house-men-pink-checked-slim-fit-cotton-casual-shirt/p/12007823
+[PRODUCT] https://www.nykaafashion.com/u-s-polo-assn-mens-grey-stripes-shirt/p/17059989
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/men-bags-backpacks
+[PRODUCT] https://www.myntra.com/trolley-bag/safari/safari-blue--yellow-printed-cabin-sized-trolley-bag/18552116/buy
+[PRODUCT] https://www.myntra.com/trolley-bag/safari/safari-multicolored-printed-hardsided-large-size-trolley-bag/18552122/buy
+[PRODUCT] https://www.myntra.com/trolley-bag/safari/safari-blue--white-printed-hard-sided-cabin-trolley-suitcase/18552114/buy
+[PRODUCT] https://www.myntra.com/trolley-bag/tommy-hilfiger/tommy-hilfiger-navy-blue-striped-15-inch-laptop-overnighter---45-litres/15197990/buy
+[PRODUCT] https://www.myntra.com/backpacks/wildcraft/wildcraft-unisex-lunar-backpack/12361350/buy
+[PRODUCT] https://www.myntra.com/trolley-bag/vip/vip-unisex-teal-blue-textured-hard-sided-medium-voyager-pro-trolley-bag--75litres/19272372/buy
+[PRODUCT] https://www.myntra.com/backpacks/puma/puma-unisex-black-phase-laptop-backpack/8160083/buy
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/kids-girl-skirts-shorts
+[RESULT] Found 111 product URLs
+[SAVED] Product URLs saved to ./results_all/nykaafashion.com_1.json
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/trolley-bags
+[PRODUCT] https://www.myntra.com/trolley-bag/safari/safari-grey-56-cm-premium-hardsided-trolley-suitcase/12764080/buy
+[PRODUCT] https://www.myntra.com/trolley-bag/tommy-hilfiger/tommy-hilfiger-navy-blue-striped-15-inch-laptop-overnighter---45-litres/15197990/buy
+[PRODUCT] https://www.myntra.com/trolley-bag/skybags/skybags-unisex-blue-soft-4-wheels-360-degree-rotation-large-trolley-bag/17566440/buy
+[PRODUCT] https://www.myntra.com/trolley-bag/wildcraft/wildcraft-blue-onyx-textured-hard-sided-large-trolley-suitcase/19818066/buy
+[PRODUCT] https://www.myntra.com/trolley-bag/vip/vip-unisex-teal-blue-textured-hard-sided-medium-voyager-pro-trolley-bag--75litres/19272372/buy
+[PRODUCT] https://www.myntra.com/trolley-bag/teakwood-leathers/teakwood-leathers-lime-green-textured-cabin-hard-trolley-bag/16957086/buy
+[PRODUCT] https://www.myntra.com/trolley-bag/american-tourister/american-tourister-grey-textured-hard-sided-cabin-trolley-suitcase/13182822/buy
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/denim-trousers
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/shop/women
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/ethnic-wear-for-kids-girl
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/fusion-wear
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/kids-girl-underwear
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/kids-girls-footwear
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-kurtas-kurtis-suits
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/shirts-t-shirt
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/ethnic-tops
+[Cheerio][DEPTH 1] Visiting: https://www.westside.com/collections/kids-boy-sweatshirts
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/saree
+[PRODUCT] https://www.myntra.com/sarees/koskii/koskii-navy-blue-embellished-sequinned-saree/19475368/buy
+[PRODUCT] https://www.myntra.com/sarees/pothys/pothys-cream-coloured--pink-floral-art-silk-banarasi-saree/19913298/buy
+[PRODUCT] https://www.myntra.com/sarees/suta/suta-maroon--beige-colourblocked-saree/15244334/buy
+[PRODUCT] https://www.myntra.com/sarees/inddus/inddus-mustard-yellow--gold-toned-net-embroidered-saree/12631330/buy
+[PRODUCT] https://www.myntra.com/sarees/anouk/anouk-blue-floral-embroidered-satin-saree/16846726/buy
+[PRODUCT] https://www.myntra.com/sarees/mitera/mitera-striped-saree-with-embellished-border/16590040/buy
+[PRODUCT] https://www.myntra.com/sarees/mimosa/mimosa-women-cream-coloured--gold-toned-paisley-zari-art-silk-kasavu-saree/19436916/buy
+[Cheerio][DEPTH 2] Visiting: https://www.westside.com/collections/kids-boys-denim-trousers
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-ethnic-wear
+[RESULT] Found 100 product URLs
+[SAVED] Product URLs saved to ./results_all/westside.com_1.json
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-ethnic-bottomwear?f=categories%3AChuridar%2CLeggings%2CSalwar
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/skirts-palazzos
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/dress-material
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/lehenga-choli
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/dupatta-shawl
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-jackets
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-accessories
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-watches
+[PRODUCT] https://www.myntra.com/watches/dressberry/dressberry-women-mauve-analogue-watch/2278228/buy
+[PRODUCT] https://www.myntra.com/smart-watches/fire-boltt/fire-boltt-talk-pro-smart-watch---black-38bswaay-1/18855428/buy
+[PRODUCT] https://www.myntra.com/watches/fastrack/fastrack-unisex-black-dial--silicon-straps-analogue-watch-38024pp25/15471534/buy
+[PRODUCT] https://www.myntra.com/smart-watches/noise/noise-black-colorfit-icon-buzz-bluetooth-calling-smart-watch-with-voice-assistance/16934964/buy
+[PRODUCT] https://www.myntra.com/smart-watches/muse/muse-black-solid-modernist-hybrid-smartwatch/20440572/buy
+[PRODUCT] https://www.myntra.com/watches/casio/casio-unisex-vintage-black-dial-vintage-watch-a168wa-1wdf---d131/7370454/buy
+[PRODUCT] https://www.myntra.com/watches/titan/titan-women-purple-analogue-watch-2480wm02/10052037/buy
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/womens-western-wear
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/dresses?f=Gender%3Amen%20women%2Cwomen
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/tops
+[PRODUCT] https://www.myntra.com/tops/roadster/roadster-women-burgundy-solid-high-low-pure-cotton-top/8330217/buy
+[PRODUCT] https://www.myntra.com/tops/hm/hm-black-sequined-corset-top/20982296/buy
+[PRODUCT] https://www.myntra.com/tops/forever-21/forever-21-black-victorian-style-bralette-crop-top/19458016/buy
+[PRODUCT] https://www.myntra.com/tops/dressberry/dressberry-yellow--black-print-shirt-style-top/14323566/buy
+[PRODUCT] https://www.myntra.com/tops/tokyo-talkies/tokyo-talkies-black-striped-regular-top/15954022/buy
+[PRODUCT] https://www.myntra.com/tops/sassafras/sassafras-black-high-neck-cropped-top/12222036/buy
+[PRODUCT] https://www.myntra.com/tops/vishudh/vishudh-off-white--blue-geometric-printed-mandarin-collar-empire-top/15361610/buy
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/myntra-fashion-store?f=Categories%3ATshirts%3A%3AGender%3Amen%20women%2Cwomen
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-jeans
+[PRODUCT] https://www.myntra.com/jeans/dressberry/dressberry-women-blue-pure-cotton-flared-high-rise-stretchable-jeans/15056158/buy
+[PRODUCT] https://www.myntra.com/jeans/tokyo-talkies/tokyo-talkies-women-white-flared-high-rise-clean-look-jeans/13689970/buy
+[PRODUCT] https://www.myntra.com/jeans/levis/levis-women-blue-724-straight-fit-heavy-fade-stretchable-jeans/18903196/buy
+[PRODUCT] https://www.myntra.com/jeans/chemistry/chemistry-women-blue-regular-fit-mid-rise-clean-look-stretchable-cropped-jeans/13526690/buy
+[PRODUCT] https://www.myntra.com/jeans/mango/mango-women-blue-noa-skinny-fit-mid-rise-clean-look-stretchable-jeans/15265896/buy
+[PRODUCT] https://www.myntra.com/jeans/roadster/roadster-women-navy-blue-skinny-fit-high-rise-jeans/11531806/buy
+[PRODUCT] https://www.myntra.com/jeans/kotty/kotty-women-black-jean-straight-fit-high-rise-stretchable-jeans/19259884/buy
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-trousers
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-shorts-skirts
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/myntra-fashion-store?f=Categories%3AClothing%20Set%2CCo-Ords%3A%3AGender%3Amen%20women%2Cwomen
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/playsuit?f=Gender%3Amen%20women%2Cwomen
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/jumpsuits?f=Gender%3Amen%20women%2Cwomen
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-shrugs
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-sweaters-sweatshirts
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-jackets-coats
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/women-blazers-waistcoats
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/plus-size-for-women
+[Cheerio][DEPTH 1] Visiting: https://www.myntra.com/myntra-fashion-store?f=Categories%3ACamisoles%2CChuridar%2CDresses%2CHarem%20Pants%2CJeans%2CKurta%20Sets%2CKurtas%2CKurtis%2CLeggings%2CLounge%20Tshirts%2CNightdress%2CPalazzos%2CShirts%2CShrug%2CSkirts%2CTops%2CTrack%20Pants%2CTrousers%2CTshirts%2CTunics%3A%3AGender%3Amen%20women%2Cwomen%3A%3AOccasion%3AMaternity
+[Cheerio][DEPTH 2] Visiting: https://www.myntra.com/women-sunglasses
+[RESULT] Found 114 product URLs
+[SAVED] Product URLs saved to ./results_all/myntra.com_1.json

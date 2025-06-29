@@ -6,7 +6,7 @@ import pLimit from 'p-limit';
 import { getRules } from './utils/ruleChecker.js';
 
 // ⬇️ Concurrency limit
-const limit = pLimit(4);
+const limit = pLimit(8);
 
 const domains = [
   "https://www.virgio.com",
